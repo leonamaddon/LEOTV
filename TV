@@ -1,20 +1,233 @@
-<item>
-<title>GLOBO RJ</title>
-<link>https://Globo%20Ao%20Vivo%20Online%20Grátis%20HD%2024%20horas%20Sem%20Travar%20no%20Ar%20https%3A%2F%2Fmulticanais.com%2Fver-globo-ao-vivo-online-gratis-hd%2F</link>
-<thumbnail>https://ia801400.us.archive.org/20/items/globotv-835dfb-81ecafffccc-0de-2b-3af-2b-6d-5cd/GLOBOTV835dfb81ecafffccc0de2b3af2b6d5cd.png</thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>AMC</title>
-<link>https://tv.bahialink.net.br/74958ca9-acdb-4a28-a02d-9c718073c6b0</link>
-<thumbnail>https://ia801402.us.archive.org/7/items/amc_20200827/AMC.png</thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#EXTM3U
+#EXTINF:-1,A&E
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/87.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/86.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/295.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/504.m3u8
+#EXTINF:-1,BAND HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/296.m3u8
+#EXTINF:-1,BAND SPORTS SD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/84.m3u8
+#EXTINF:-1,BAND SPORT HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/534.m3u8
+#EXTINF:-1,BAND NEWS
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/89.m3u8
+#EXTINF:-1,BIS HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/535.m3u8
+#EXTINF:-1,BOOMERANG
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/90.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/82.m3u8
+#EXTINF:-1,CINEMAX
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/91.m3u8
+#EXTINF:-1,COMBATE
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/135.m3u8
+#EXTINF:-1,COMBATE HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/136.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/156.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/96.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/288.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/79.m3u8
+#EXTINF:-1,DISCOVERY H&H HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/297.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/93.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/94.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/298.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/537.m3u8
+#EXTINF:-1,DISNEY JR
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/97.m3u8
+#EXTINF:-1,DISNEY XD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/98.m3u8
+#EXTINF:-1,E!
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/99.m3u8
+#EXTINF:-1,EI MAXX HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/300.m3u8
+#EXTINF:-1,EI MAXX 2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/299.m3u8
+#EXTINF:-1,ESPN HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/538.m3u8
+#EXTINF:-1,ESPN + HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/713.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/301.m3u8
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/42.m3u8
+#EXTINF:-1,FISH TV
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/162.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/173.m3u8
+#EXTINF:-1,FOX HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/291.m3u8
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/302.m3u8
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/303.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/539.m3u8
+#EXTINF:-1,FOX SPORT HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/304.m3u8
+#EXTINF:-1,FOX SPORT 2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/518.m3u8
+#EXTINF:-1,FX HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/513.m3u8
+#EXTINF:-1,FUTURA
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/102.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/71.m3u8
+#EXTINF:-1,GLOBO RJ HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/329.m3u8
+#EXTINF:-1,GLOBO SP HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/528.m3u8
+#EXTINF:-1,GLOOB
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/70.m3u8
+#EXTINF:-1,GNT HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/541.m3u8
+#EXTINF:-1,H2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/523.m3u8
+#EXTINF:-1,HBO HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/306.m3u8
+#EXTINF:-1,HBO 2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/305.m3u8
+#EXTINF:-1,HISTORY HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/290.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/524.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/525.m3u8
+#EXTINF:-1,HBO PLUS E
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/352.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/542.m3u8
+#EXTINF:-1,ID HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/508.m3u8
+#EXTINF:-1,MAX
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/111.m3u8
+#EXTINF:-1,MAX PRIME
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/112.m3u8
+#EXTINF:-1,MAX PRIME E
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/353.m3u8
+#EXTINF:-1,MAX UP
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/66.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/505.m3u8
+#EXTINF:-1,MIX TV
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/341.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/514.m3u8
+#EXTINF:-1,MTV
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/65.m3u8
+#EXTINF:-1,NAT GEO HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/307.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/520.m3u8
+#EXTINF:-1,NFL NOW
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/667.m3u8
+#EXTINF:-1,NICK
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/116.m3u8
+#EXTINF:-1,NICK JR.
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/117.m3u8
+#EXTINF:-1,NHK
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/355.m3u8
+#EXTINF:-1,NBR
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/149.m3u8
+#EXTINF:-1,OFF HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/529.m3u8
+#EXTINF:-1,PARAMOUNT HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/543.m3u8
+#EXTINF:-1,PLAY TV
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/148.m3u8
+#EXTINF:-1,PREMIERE CLUBES
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/123.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/312.m3u8
+#EXTINF:-1,PREMIERE 2
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/118.m3u8
+#EXTINF:-1,PREMIERE 2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/308.m3u8
+#EXTINF:-1,PREMIERE 3
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/119.m3u8
+#EXTINF:-1,PREMIERE 3 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/309.m3u8
+#EXTINF:-1,PREMIERE 4
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/120.m3u8
+#EXTINF:-1,PREMIERE 4 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/310.m3u8
+#EXTINF:-1,PREMIERE 5
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/59.m3u8
+#EXTINF:-1,PREMIERE 5 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/311.m3u8
+#EXTINF:-1,PREMIERE 6
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/61.m3u8
+#EXTINF:-1,PREMIERE 7
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/121.m3u8
+#EXTINF:-1,PREMIERE 8
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/60.m3u8
+#EXTINF:-1,PREMIERE 9
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/122.m3u8
+#EXTINF:-1,PRIME BOX BRASIL
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/147.m3u8
+#EXTINF:-1,RECORD HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/313.m3u8
+#EXTINF:-1,RECORD NEWS
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/57.m3u8
+#EXTINF:-1,REDE TV HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/715.m3u8
+#EXTINF:-1,REDE VIDA
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/145.m3u8
+#EXTINF:-1,SBT HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/314.m3u8
+#EXTINF:-1,SONY HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/517.m3u8
+#EXTINF:-1,SPACE HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/512.m3u8
+#EXTINF:-1,SPORTV HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/317.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/315.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/316.m3u8
+#EXTINF:-1,SPORTV ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/142.m3u8
+#EXTINF:-1,SPORTV 2 ALTERNATIVO
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/143.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/129.m3u8
+#EXTINF:-1,TBS HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/714.m3u8
+#EXTINF:-1,TCM
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/41.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/321.m3u8
+#EXTINF:-1,TELECINE ACTION HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/318.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/320.m3u8
+#EXTINF:-1,TELECINE TOUCH HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/521.m3u8
+#EXTINF:-1,TELECINE FUN HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/319.m3u8
+#EXTINF:-1,TELECINE CULT
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/52.m3u8
+#EXTINF:-1,TNT HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/322.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/545.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/546.m3u8
+#EXTINF:-1,VIVA HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/515.m3u8
+#EXTINF:-1,WARNER
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/45.m3u8
+#EXTINF:-1,WOOHOO
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/134.m3u8
