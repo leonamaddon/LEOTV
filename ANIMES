@@ -25,10 +25,10 @@
 
 <channels>
 <channel>
-<name>DESENHO - LEO TV</name>
+<name>CHOBITS</name>
 <thumbnail>https://ia801500.us.archive.org/7/items/series_20200826/DESENHO.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801403.us.archive.org/24/items/fanart_20200826/fanart.png</fanart>
+<externallink>https://raw.githubusercontent.com/leonamaddon/LEOTV/master/CHOBITS</externallink>
+<fanart>https://archive.org/download/chocho/chocho.png</fanart>
 
 </channel>
 </channels>
