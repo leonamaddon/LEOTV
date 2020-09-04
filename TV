@@ -1,507 +1,416 @@
 #EXTM3U
-#EXTINF:-1 group-title="A&E",WENDEL TECK A&E
-http://fdpvv.xyz:8080/Vitor/12345/25899
-#EXTINF:-1 group-title="A&E",WENDEL TECK A&E FHD
-http://fdpvv.xyz:8080/Vitor/12345/26184
-#EXTINF:-1 group-title="A&E",WENDEL TECK A&E HD
-http://srv.maxptv.net:8080/BMW497/123123/236
-#EXTINF:-1 group-title="AMC",WENDEL TECK AMC
-http://fdpvv.xyz:8080/Vitor/12345/25905
-#EXTINF:-1 group-title="AMC",WENDEL TECK AMC HD
-http://fdpvv.xyz:8080/Vitor/12345/25906
-#EXTINF:-1 group-title="AMC",WENDEL TECK Amc HD
-http://srv.maxptv.net:8080/BMW497/123123/512
-#EXTINF:-1 group-title="Animal Planet",WENDEL TECK BR Animal Planet
-http://fdpvv.xyz:8080/Vitor/12345/25907
-#EXTINF:-1 group-title="Animal Planet",WENDEL TECK BR Animal Planet FHD
-http://fdpvv.xyz:8080/Vitor/12345/26186
-#EXTINF:-1 group-title="Animal Planet",WENDEL TECK BR Animal Planet HD
-http://fdpvv.xyz:8080/Vitor/12345/25908
-#EXTINF:-1 group-title="Arte 1",WENDEL TECK Arte 1
-http://fdpvv.xyz:8080/Vitor/12345/25914
-#EXTINF:-1 group-title="AXN",WENDEL TECK AXN
-http://fdpvv.xyz:8080/Vitor/12345/25910
-#EXTINF:-1 group-title="BAND",WENDEL TECK Band
-http://fdpvv.xyz:8080/Vitor/12345/25914
-#EXTINF:-1 group-title="BAND",WENDEL TECK Band Campinas HD
-http://srv.maxptv.net:8080/BMW497/123123/242
-#EXTINF:-1 group-title="BAND",Band Campinas SD
-http://srv.maxptv.net:8080/BMW497/123123/241
-#EXTINF:-1 group-title="Cameras",Praça da Inspiração - Goiânia
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1619468484.m3u8
-#EXTINF:-1 group-title="Cameras",Ponta da Praia - Santos SP
-https://b9.hdrelay.com/camera/33f005a3-17ea-47d8-a816-e41d7d5c5cc0/relay/chunklist_w471073967.m3u8
-#EXTINF:-1 group-title="Cameras",Barra da Tijuca
-https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w2094923708.m3u8
-#EXTINF:-1 group-title="Cameras",Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Cameras",Cascavel Panorâmica
-https://5b33b873179a2.streamlock.net:1443/cameraecocataratas/cameraecocataratas.stream/chunklist_w127724520.m3u8
-#EXTINF:-1 group-title="Cameras",Pico do Gavião
-https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist_w1815578017.m3u8
-#EXTINF:-1 group-title="Cameras",Praia de Tramandaí
-http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w544980703.m3u8
-#EXTINF:-1 group-title="Cameras",Florianópolis - Praia dos Ingleses
-https://ipc-80.camerite.com/1dia/9fd34730-1a6a-11e9-81f3-07b0e1c82f3e.stream/chunklist.m3u8
-====================================================================Cartoon Network
-#EXTINF:-1 group-title="Cartoon Network",BR Cartoon Network
-http://fdpvv.xyz:8080/Vitor/12345/25931
-#EXTINF:-1 group-title="Cartoon Network",Cartoon Network HD
-http://srv.maxptv.net:8080/BMW497/123123/524
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25942
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/26217
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25943
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25944
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/26218
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25945
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25946
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25947
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/26219
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25948
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25949
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25950
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25951
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/26220
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25952
-#EXTINF:-1 group-title="Discovery",Discovery Channel
-http://fdpvv.xyz:8080/Vitor/12345/25953
-#EXTINF:-1 group-title="Discovery",Discovery Home & Health HD
-http://srv.maxptv.net:8080/BMW497/123123/191
-#EXTINF:-1 group-title="Discovery",Discovery Home & Health SD
-http://srv.maxptv.net:8080/BMW497/123123/190
-#EXTINF:-1 group-title="Discovery",Discovery Kids HD
-http://srv.maxptv.net:8080/BMW497/123123/189
-#EXTINF:-1 group-title="Discovery",Discovery Kids SD
-http://srv.maxptv.net:8080/BMW497/123123/188
-#EXTINF:-1 group-title="Discovery",Discovery Science HD
-http://srv.maxptv.net:8080/BMW497/123123/187
-#EXTINF:-1 group-title="Discovery",Discovery Science SD
-http://srv.maxptv.net:8080/BMW497/123123/186
-#EXTINF:-1 group-title="Discovery",Discovery Theater HD
-http://srv.maxptv.net:8080/BMW497/123123/185
-#EXTINF:-1 group-title="Discovery",Discovery Theater SD
-http://srv.maxptv.net:8080/BMW497/123123/184
-#EXTINF:-1 group-title="Discovery",Discovery Turbo HD
-http://srv.maxptv.net:8080/BMW497/123123/183
-#EXTINF:-1 group-title="Discovery",Discovery Turbo SD
-http://srv.maxptv.net:8080/BMW497/123123/182
-#EXTINF:-1 group-title="Discovery",Discovery World HD
-http://srv.maxptv.net:8080/BMW497/123123/181
-#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
-http://fdpvv.xyz:8080/Vitor/12345/25955
-#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
-http://fdpvv.xyz:8080/Vitor/12345/25956
-#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
-http://fdpvv.xyz:8080/Vitor/12345/25957
-#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
-http://fdpvv.xyz:8080/Vitor/12345/26221
-#EXTINF:-1 group-title="DISNEY",Disney Channel  HD
-http://srv.maxptv.net:8080/BMW497/123123/179
-#EXTINF:-1 group-title="DISNEY",Disney Channel SD
-http://srv.maxptv.net:8080/BMW497/123123/178
-#EXTINF:-1 group-title="DISNEY",Disney Junior HD
-http://srv.maxptv.net:8080/BMW497/123123/177
-#EXTINF:-1 group-title="DISNEY",Disney Junior SD
-http://srv.maxptv.net:8080/BMW497/123123/176
-#EXTINF:-1 group-title="DISNEY",Disney XD HD
-http://srv.maxptv.net:8080/BMW497/123123/175
-#EXTINF:-1 group-title="Esportes",Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 group-title="Esportes",All Sports TV
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 group-title="Esportes",Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 group-title="Esportes",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN
-http://a.srvbr.me:8880/138883/138883/4643
-#EXTINF:-1 group-title="ESPN",ESPN HD
-http://a.srvbr.me:8880/138883/138883/848
-#EXTINF:-1 group-title="ESPN",ESPN Full HD
-http://a.srvbr.me:8880/138883/138883/5458
-#EXTINF:-1 group-title="ESPN",ESPN HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/1839
-#EXTINF:-1 group-title="ESPN",ESPN +  HD
-http://a.srvbr.me:8880/138883/138883/851
-#EXTINF:-1 group-title="ESPN",ESPN EXTRA HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/1837
-#EXTINF:-1 group-title="ESPN",ESPN Brasil
-http://a.srvbr.me:8880/138883/138883/850
-#EXTINF:-1 group-title="ESPN",ESPN Brasil HD
-http://a.srvbr.me:8880/138883/138883/849
-#EXTINF:-1 group-title="ESPN",ESPN Brasil Full HD
-http://a.srvbr.me:8880/138883/138883/5459
-#EXTINF:-1 group-title="ESPN",ESPN Brasil HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/1838
-#EXTINF:-1 group-title="GLOBO",Globo Brasília
-http://a.srvbr.me:8880/138883/138883/831
-#EXTINF:-1 group-title="GLOBO",Globo TV Centro America
-http://a.srvbr.me:8880/138883/138883/5127
-#EXTINF:-1 group-title="GLOBO",Globo EPTV Campinas
-http://a.srvbr.me:8880/138883/138883/5130
-#EXTINF:-1 group-title="GLOBO",Globo EPTV Campinas HD
-http://a.srvbr.me:8880/138883/138883/5314
-#EXTINF:-1 group-title="GLOBO",Globo Ribeirão Preto
-http://a.srvbr.me:8880/138883/138883/5312
-#EXTINF:-1 group-title="GLOBO",Globo Ribeirão Preto HD
-http://a.srvbr.me:8880/138883/138883/5313
-#EXTINF:-1 group-title="GLOBO",Globo - TV Bahia
-http://a.srvbr.me:8880/138883/138883/5071
-#EXTINF:-1 group-title="GLOBO",Globo - TV Bahia HD
-http://a.srvbr.me:8880/138883/138883/5309
-#EXTINF:-1 group-title="GLOBO",Globo Minas
-http://a.srvbr.me:8880/138883/138883/830
-#EXTINF:-1 group-title="GLOBO",Globo Minas HD
-http://a.srvbr.me:8880/138883/138883/5093
-#EXTINF:-1 group-title="GLOBO",Globo News
-http://a.srvbr.me:8880/138883/138883/826
-#EXTINF:-1 group-title="GLOBO",Globo News HD
-http://a.srvbr.me:8880/138883/138883/1498
-#EXTINF:-1 group-title="GLOBO",Globo Nordeste
-http://a.srvbr.me:8880/138883/138883/5067
-#EXTINF:-1 group-title="GLOBO",Globo Nordeste HD
-http://a.srvbr.me:8880/138883/138883/5073
-#EXTINF:-1 group-title="GLOBO",Globo - RBS TV
-http://a.srvbr.me:8880/138883/138883/764
-#EXTINF:-1 group-title="GLOBO",Globo - RBS TV HD
-http://a.srvbr.me:8880/138883/138883/5311
-#EXTINF:-1 group-title="GLOBO",Globo RJ
-http://a.srvbr.me:8880/138883/138883/829
-#EXTINF:-1 group-title="GLOBO",Globo RJ HD
-http://a.srvbr.me:8880/138883/138883/828
-#EXTINF:-1 group-title="GLOBO",Globo NSC TV Florianopolis
-http://a.srvbr.me:8880/138883/138883/5421
-#EXTINF:-1 group-title="GLOBO",Globo NSC TV Florianopolis HD
-http://a.srvbr.me:8880/138883/138883/5420
-#EXTINF:-1 group-title="GLOBO",Globo Curitiba
-http://a.srvbr.me:8880/138883/138883/5128
-#EXTINF:-1 group-title="GLOBO",Globo SP
-http://a.srvbr.me:8880/138883/138883/827
-#EXTINF:-1 group-title="GLOBO",Globo SP HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/5528
-#EXTINF:-1 group-title="GLOBO",Globo Anhaguera Goiania
-http://a.srvbr.me:8880/138883/138883/5074
-#EXTINF:-1 group-title="GLOBO",Globo TV Tribuna Santos
-http://a.srvbr.me:8880/138883/138883/5126
-#EXTINF:-1 group-title="GLOBO",TV Vanguarda Sao Jose dos Campos
-http://a.srvbr.me:8880/138883/138883/5125
-#EXTINF:-1 group-title="GLOBO",Globo Para (Belem) - TV Liberal
-http://a.srvbr.me:8880/138883/138883/5069
-#EXTINF:-1 group-title="GLOBO",Globo TV TEM S.J. Rio Preto
-http://a.srvbr.me:8880/138883/138883/5307
-#EXTINF:-1 group-title="GLOBO",Globo TV TEM S.J. Rio Preto HD
-http://a.srvbr.me:8880/138883/138883/5308
-#EXTINF:-1 group-title="GLOBO",Globo - TV TEM Bauru
-http://a.srvbr.me:8880/138883/138883/714
-#EXTINF:-1 group-title="GLOBO",Globo - TV TEM Sorocaba
-http://a.srvbr.me:8880/138883/138883/713
-#EXTINF:-1 group-title="RECORD",TV RECORD (RN)
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Natal
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
-#EXTINF:-1 group-title="RECORD",Record RJ
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record BH
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record DF
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record BA
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record MA
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record RS
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record GO
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-#EXTINF:-1 group-title="RECORD",Record PA
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Natal
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Rio de Janeiro
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Bahia
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Distrito Federal
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Belo Horizonte
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Pará
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Manaus
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 group-title="RECORD",RecordTV Goiás
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-#EXTINF:-1 group-title="SBT",SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT - TV Cidade Verde - (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
-#EXTINF:-1 group-title="SBT",SBT - TV Difusora (MA)
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT - TV Serra Dourada - (GO)
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 group-title="SBT",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
-#EXTINF:-1 group-title="SBT",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 group-title="SBT",SBT
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-#EXTINF:-1 group-title="SBT",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?LISTASDAGLAU
-#EXTINF:-1 group-title="SBT",SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?LISTASDAGLAU
-#EXTINF:-1 group-title="SBT",SBT
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
-#EXTINF:-1 group-title="Cultura",TV Baiana - Cultura
-http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
-#EXTINF:-1 group-title="Cultura",Cultura Pará
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 group-title="Nick JR",Nick Jr.
-http://a.srvbr.me:8880/139427/139427/788
-#EXTINF:-1 group-title="Nick JR",Nick Jr. HD
-http://a.srvbr.me:8880/139427/139427/5301
-#EXTINF:-1 group-title="NOTICIAS",CNN BRASIL - TEMPORÁRIO
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 group-title="INFANTIL",GOSPEL CARTOON
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 group-title="INFANTIL",KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 group-title="INFANTIL",TV Educativa de Porto Alegre
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="Documentários",RT Documentary Channel
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 group-title="Documentários",TVídeoNews
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:-1 group-title="Documentários",GarageTV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w275294852_b1296000_sleng.m3u8
-#EXTINF:-1 group-title="Documentários",RT Documentary Channel
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 group-title="Documentários",History Lab
-https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
-#EXTINF:-1 group-title="Documentários",DW - German
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 group-title="Documentários",DW - Latino América
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",CINE GOSPEL
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 group-title="Música",RTL (Itália)
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-#EXTINF:-1 group-title="Música",Otto Fm TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1 group-title="Música",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/playlist.m3u8
-#EXTINF:-1 group-title="Música",DJing
-https://www.djing.com/tv/29054-03.m3u8
-#EXTINF:-1 group-title="Música",DJing Animation
-https://www.djing.com/tv/a-28904-04.m3u8
-#EXTINF:-1 group-title="Música",Sexy KpopTV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
-#EXTINF:-1 group-title="Músicas",LFM TV
-https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
-#EXTINF:-1 group-title="Músicas",Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
-#EXTINF:-1 group-title="Músicas",KpopTV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
-#EXTINF:-1 group-title="Músicas",KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Música",Retrô TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Música",RETRO MUSIC HD**
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Música",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 group-title="Música",Capital TV
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="Música",M2O
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="Música",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 group-title="Rádios",FM O DIA 100.5 - ESTÚDIO AO VIVO
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:-1 group-title="Rádios",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 group-title="Rádios",CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 group-title="Rádios",Radio HITS
-http://stream.zeno.fm/91gxfe0gtqzuv
-#EXTINF:-1 group-title="Rádios",1.FM - Love Classics
-http://strm112.1.fm/loveclassics_mobile_mp3
-#EXTINF:-1 group-title="Rádios",JB FM
-https://18623.live.streamtheworld.com/JBFMAAC1.aac
-#EXTINF:-1 group-title="Rádios",Nativa SP
-https://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w1902334984.m3u8
-#EXTINF:-1 group-title="Rádios",Alpha SP
-https://ice.fabricahost.com.br/alphafm1017?compat=1
-#EXTINF:-1 group-title="REGIONAIS",TV Parana
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV Parana
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="REGIONAIS",REDE MINAS
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV MACEIÓ [AL]
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="REGIONAIS",REDE RC [BA]
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV J.SID [BA]
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
-#EXTINF:-1 group-title="REGIONAIS",TV CARA DA BAHIA [BA]
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV AMBIENTAL [ES]
-https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
-#EXTINF:-1 group-title="REGIONAIS",REDE MINAS [MG]
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="REGIONAIS",Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="REGIONAIS",Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="REGIONAIS",Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV DIÁRIO DO SERTÃO [PB]
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV NATAL [RN]
-http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
-#EXTINF:-1 group-title="REGIONAIS",TV FAAP [SP]
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV MACEIÓ [AL]
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="REGIONAIS",REDE RC [BA]
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV J.SID [BA]
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV CARA DA BAHIA [BA]
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
-#EXTINF:-1 group-title="REGIONAIS",TV NATAL [RN]
-http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
-#EXTINF:-1 group-title="Religioso",Canção Nova
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 group-title="Religioso",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Religioso",TV Aparecida
-https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stream/playlist.m3u8
-#EXTINF:-1 group-title="Religioso",Rede Século 21
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:-1 group-title="Religioso",Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religioso",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 group-title="Religioso",IURD TV
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religioso",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 group-title="TELECINE",BR TELECINE ACTION
-http://fdpvv.xyz:8080/Vitor/12345/20945
-#EXTINF:-1 group-title="TELECINE",BR Telecine Action
-http://fdpvv.xyz:8080/Vitor/12345/26150
-#EXTINF:-1 group-title="TELECINE",BR Telecine Action FHD
-http://fdpvv.xyz:8080/Vitor/12345/26312
-#EXTINF:-1 group-title="TELECINE",BR Telecine Action HD
-http://fdpvv.xyz:8080/Vitor/12345/26151
-#EXTINF:-1 group-title="TELECINE",BR Telecine Fun
-http://fdpvv.xyz:8080/Vitor/12345/26153
-#EXTINF:-1 group-title="TELECINE",BR Telecine Fun FHD
-http://fdpvv.xyz:8080/Vitor/12345/26314
-#EXTINF:-1 group-title="TELECINE",BR Telecine Fun HD
-http://fdpvv.xyz:8080/Vitor/12345/26154
-#EXTINF:-1 group-title="TELECINE",BR Telecine Pipoca
-http://fdpvv.xyz:8080/Vitor/12345/26155
-#EXTINF:-1 group-title="TELECINE",BR Telecine Pipoca FHD
-http://fdpvv.xyz:8080/Vitor/12345/26315
-#EXTINF:-1 group-title="TELECINE",BR Telecine Pipoca HD
-http://fdpvv.xyz:8080/Vitor/12345/26156
-#EXTINF:-1 group-title="TELECINE",BR Telecine Premium
-http://fdpvv.xyz:8080/Vitor/12345/26157
-#EXTINF:-1 group-title="TELECINE",BR Telecine Premium FHD
-http://fdpvv.xyz:8080/Vitor/12345/26316
-#EXTINF:-1 group-title="TELECINE",BR Telecine Premium HD
-http://fdpvv.xyz:8080/Vitor/12345/26158
-#EXTINF:-1 group-title="TELECINE",BR Telecine Touch
-http://fdpvv.xyz:8080/Vitor/12345/26159
-#EXTINF:-1 group-title="TELECINE",Telecine Action
-http://a.srvbr.me:8880/138883/138883/733
-#EXTINF:-1 group-title="TELECINE",Telecine Action HD
-http://a.srvbr.me:8880/138883/138883/739
-#EXTINF:-1 group-title="TELECINE",Telecine Action Full HD
-http://a.srvbr.me:8880/138883/138883/5464
-#EXTINF:-1 group-title="TELECINE",Telecine Action HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/1862
-#EXTINF:-1 group-title="TELECINE",Telecine Cult
-http://a.srvbr.me:8880/138883/138883/732
-#EXTINF:-1 group-title="TELECINE",Telecine Cult HD
-http://a.srvbr.me:8880/138883/138883/1482
-#EXTINF:-1 group-title="TELECINE",Telecine Cult HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/4108
-#EXTINF:-1 group-title="TELECINE",Telecine Fun
-http://a.srvbr.me:8880/138883/138883/731
-#EXTINF:-1 group-title="TELECINE",Telecine Fun HD
-http://a.srvbr.me:8880/138883/138883/738
-#EXTINF:-1 group-title="TELECINE",Telecine Fun Full HD
-http://a.srvbr.me:8880/138883/138883/5463
-#EXTINF:-1 group-title="TELECINE",Telecine Fun HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/1863
-#EXTINF:-1 group-title="TELECINE",Telecine Pipoca
-http://a.srvbr.me:8880/138883/138883/730
-#EXTINF:-1 group-title="TELECINE",Telecine Pipoca HD
-http://a.srvbr.me:8880/138883/138883/737
-#EXTINF:-1 group-title="TELECINE",Telecine Pipoca Full HD
-http://a.srvbr.me:8880/138883/138883/5462
-#EXTINF:-1 group-title="TELECINE",Telecine Pipoca HD [PLUS]
-http://a.srvbr.me:8880/138883/138883/1864
-#EXTINF:-1 group-title="TELECINE",Telecine Premium
-http://a.srvbr.me:8880/138883/138883/729
-#EXTINF:-1 group-title="TELECINE",Telecine Premium HD
-http://a.srvbr.me:8880/138883/138883/736
-#EXTINF:-1 group-title="TELECINE",Telecine Premium Full HD
-http://a.srvbr.me:8880/138883/138883/5461
-#EXTINF:-1 group-title="TELECINE",Telecine Touch
-http://a.srvbr.me:8880/138883/138883/728
-#EXTINF:-1 group-title="TELECINE",Telecine Touch HD
-http://a.srvbr.me:8880/138883/138883/735
-#EXTINF:-1 group-title="TELECINE",Telecine Touch Full HD
-http://a.srvbr.me:8880/138883/138883/5460
-#EXTINF:-1 group-title="TELECINE",Telecine Action HD
-http://srv.maxptv.net:8080/BMW497/123123/35
-#EXTINF:-1 group-title="TELECINE",Telecine Action SD
-http://srv.maxptv.net:8080/BMW497/123123/34
-#EXTINF:-1 group-title="TELECINE",Telecine Cult HD
-http://srv.maxptv.net:8080/BMW497/123123/33
-#EXTINF:-1 group-title="TELECINE",Telecine Cult SD
-http://srv.maxptv.net:8080/BMW497/123123/32
-#EXTINF:-1 group-title="TELECINE",Telecine Fun HD
-http://srv.maxptv.net:8080/BMW497/123123/31
-#EXTINF:-1 group-title="TELECINE",Telecine Fun SD
-http://srv.maxptv.net:8080/BMW497/123123/30
-#EXTINF:-1 group-title="TELECINE",Telecine Pipoca HD
-http://srv.maxptv.net:8080/BMW497/123123/29
-#EXTINF:-1 group-title="TELECINE",Telecine Pipoca SD
-http://srv.maxptv.net:8080/BMW497/123123/28
-#EXTINF:-1 group-title="TELECINE",Telecine Premium HD
-http://srv.maxptv.net:8080/BMW497/123123/27
-#EXTINF:-1 group-title="TELECINE",Telecine Premium SD
-http://srv.maxptv.net:8080/BMW497/123123/26
-#EXTINF:-1 group-title="TELECINE",Telecine Touch HD
+#EXTINF:-1 ,Globo SP | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/3
+#EXTINF:-1 ,AMC | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/4
+#EXTINF:-1 ,TNT | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/6
+#EXTINF:-1 ,TNT Series | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/7
+#EXTINF:-1 ,HBO xTREME | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/8
+#EXTINF:-1 ,HBO POP | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/9
+#EXTINF:-1 ,Paramount | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/10
+#EXTINF:-1 ,Polishop
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/11
+#EXTINF:-1 ,Band | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/14
+#EXTINF:-1 ,Band | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/15
+#EXTINF:-1 ,Canal Brasil | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/16
+#EXTINF:-1 ,Canal Comunitario HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/17
+#EXTINF:-1 ,Canal Rural
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/18
+#EXTINF:-1 ,Canal Universitario HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/19
+#EXTINF:-1 ,Cultura | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/20
+#EXTINF:-1 ,Curta HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/21
+#EXTINF:-1 ,Globo SP | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/23
+#EXTINF:-1 ,Record TV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/30
+#EXTINF:-1 ,Record TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/31
+#EXTINF:-1 ,Rede 21
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/32
+#EXTINF:-1 ,Rede TV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/34
+#EXTINF:-1 ,Rede Vida | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/35
+#EXTINF:-1 ,SBT | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/37
+#EXTINF:-1 ,Tv Aparecida
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/38
+#EXTINF:-1 ,Tv Brasil
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/39
+#EXTINF:-1 ,TV Câmara | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/40
+#EXTINF:-1 ,TV Escola | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/41
+#EXTINF:-1 ,TV Justiça | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/42
+#EXTINF:-1 ,Tv Novo Tempo
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/43
+#EXTINF:-1 ,TV Senado | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/44
+#EXTINF:-1 ,Band Sports | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/46
+#EXTINF:-1 ,Band Sports | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/47
+#EXTINF:-1 ,Combate | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/48
+#EXTINF:-1 ,Combate | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/49
+#EXTINF:-1 ,ESPN Extra | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/50
+#EXTINF:-1 ,ESPN | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/51
+#EXTINF:-1 ,ESPN | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/52
+#EXTINF:-1 ,ESPN Brasil | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/53
+#EXTINF:-1 ,ESPN Brasil | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/54
+#EXTINF:-1 ,FoxSports | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/55
+#EXTINF:-1 ,FoxSports | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/56
+#EXTINF:-1 ,FoxSports 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/57
+#EXTINF:-1 ,FoxSports2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/58
+#EXTINF:-1 ,OFF | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/59
+#EXTINF:-1 ,OFF | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/60
+#EXTINF:-1 ,Premiere Clubes | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/61
+#EXTINF:-1 ,Premiere Clubes | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/62
+#EXTINF:-1 ,Premiere 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/63
+#EXTINF:-1 ,Premiere 3 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/64
+#EXTINF:-1 ,Premiere 4 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/65
+#EXTINF:-1 ,Premiere 7 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/67
+#EXTINF:-1 ,SporTV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/69
+#EXTINF:-1 ,SporTV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/70
+#EXTINF:-1 ,SporTV2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/71
+#EXTINF:-1 ,SporTV 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/72
+#EXTINF:-1 ,SBT | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/73
+#EXTINF:-1 ,SporTV3 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/74
+#EXTINF:-1 ,Rede TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/75
+#EXTINF:-1 ,Love Nature | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/76
+#EXTINF:-1 ,Bloomberg | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/77
+#EXTINF:-1 ,CNN International | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/78
+#EXTINF:-1 ,DW
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/79
+#EXTINF:-1 ,NHK | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/80
+#EXTINF:-1 ,Record News | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/81
+#EXTINF:-1 ,SIC International | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/82
+#EXTINF:-1 ,Tv 5 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/83
+#EXTINF:-1 ,Tve HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/84
+#EXTINF:-1 ,Globo News | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/85
+#EXTINF:-1 ,Band News | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/86
+#EXTINF:-1 ,Beinsport 1 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/87
+#EXTINF:-1 ,Beinsport 2 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/88
+#EXTINF:-1 ,Beinsport 3 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/89
+#EXTINF:-1 ,Beinsport 4 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/90
+#EXTINF:-1 ,Beinsport 5 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/91
+#EXTINF:-1 ,Beinsport 6 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/92
+#EXTINF:-1 ,Beinsport 7 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/93
+#EXTINF:-1 ,Beinsport 8 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/94
+#EXTINF:-1 ,Beinsport 9 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/95
+#EXTINF:-1 ,Beinsport 10 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/96
+#EXTINF:-1 ,Beinsport 11 HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/97
+#EXTINF:-1 ,EuroChannel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/98
+#EXTINF:-1 ,Animal Planet | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/99
+#EXTINF:-1 ,Animal Planet | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/100
+#EXTINF:-1 ,Discovery Home & Health | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/101
+#EXTINF:-1 ,Discovery Home & Health | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/102
+#EXTINF:-1 ,Discovery Channel | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/103
+#EXTINF:-1 ,Discovery Channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/104
+#EXTINF:-1 ,Discovery Theater | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/105
+#EXTINF:-1 ,Discovery Theater | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/106
+#EXTINF:-1 ,Discovery Turbo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/107
+#EXTINF:-1 ,Discovery Turbo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/108
+#EXTINF:-1 ,Discovery World | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/109
+#EXTINF:-1 ,Fish Tv HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/110
+#EXTINF:-1 ,Food Network FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/111
+#EXTINF:-1 ,Food Network HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/112
+#EXTINF:-1 ,FX | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/113
+#EXTINF:-1 ,FX | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/114
+#EXTINF:-1 ,History channel | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/115
+#EXTINF:-1 ,History channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/116
+#EXTINF:-1 ,Investigacao Discovery  | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/117
+#EXTINF:-1 ,NatGeo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/118
+#EXTINF:-1 ,NatGeo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/119
+#EXTINF:-1 ,NatGeoWild | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/120
+#EXTINF:-1 ,NatGeo Wild | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/121
+#EXTINF:-1 ,Discovery Science | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/122
+#EXTINF:-1 ,TLC | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/123
+#EXTINF:-1 ,HGTV HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/124
+#EXTINF:-1 ,Smithsonian | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/125
+#EXTINF:-1 ,Film & Arts | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/126
+#EXTINF:-1 ,Baby TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/127
+#EXTINF:-1 ,Boomerang | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/128
+#EXTINF:-1 ,Cartoon Network | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/129
+#EXTINF:-1 ,Disney Channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/130
+#EXTINF:-1 ,Disney Junior | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/131
+#EXTINF:-1 ,Disney XD | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/132
+#EXTINF:-1 ,Gloob | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/133
+#EXTINF:-1 ,Gloob | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/134
+#EXTINF:-1 ,NatGeo Kids | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/135
+#EXTINF:-1 ,Nickelodeon | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/136
+#EXTINF:-1 ,TV Rá-tim-bum
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/137
+#EXTINF:-1 ,Zoomoo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/138
+#EXTINF:-1 ,Discovery Kids | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/139
+#EXTINF:-1 ,NickJr | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/140
+#EXTINF:-1 ,BIS | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/141
+#EXTINF:-1 ,MTV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/142
+#EXTINF:-1 ,MTV Live | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/143
+#EXTINF:-1 ,Multishow | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/144
+#EXTINF:-1 ,Music Box Brasil
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/145
+#EXTINF:-1 ,VH1 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/146
+#EXTINF:-1 ,VH1 MegaHits | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/147
+#EXTINF:-1 ,Arte1 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/148
+#EXTINF:-1 ,Comedy Central | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/149
+#EXTINF:-1 ,Comedy Central | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/150
+#EXTINF:-1 ,GNT | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/151
+#EXTINF:-1 ,Mais Globo Sat | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/152
+#EXTINF:-1 ,Shoptime | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/153
+#EXTINF:-1 ,Canal Viva | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/154
+#EXTINF:-1 ,Woohoo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/155
+#EXTINF:-1 ,E! | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/156
+#EXTINF:-1 ,Fashion TV
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/157
+#EXTINF:-1 ,A&E | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/158
+#EXTINF:-1 ,AMC | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/159
+#EXTINF:-1 ,Canal Sony | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/160
+#EXTINF:-1 ,Canal Sony | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/161
+#EXTINF:-1 ,Fox | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/162
+#EXTINF:-1 ,Fox | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/163
+#EXTINF:-1 ,FOX Life | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/164
+#EXTINF:-1 ,FOX Life | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/165
+#EXTINF:-1 ,Fox Premium 1 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/166
+#EXTINF:-1 ,Fox Premium 1 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/167
+#EXTINF:-1 ,Fox Premium 2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/168
+#EXTINF:-1 ,Fox Premium 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/169
+#EXTINF:-1 ,Lifetime | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/170
+#EXTINF:-1 ,Like HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/171
+#EXTINF:-1 ,Megapix | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/172
+#EXTINF:-1 ,Paramount | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/173
+#EXTINF:-1 ,Studio Universal | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/174
+#EXTINF:-1 ,SYFY | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/175
+#EXTINF:-1 ,TBS | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/176
+#EXTINF:-1 ,TNT Series | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/177
+#EXTINF:-1 ,Universal Channel l FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/178
+#EXTINF:-1 ,Universal Channel l HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/179
+#EXTINF:-1 ,Warner Channel l FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/180
+#EXTINF:-1 ,Warner Channel l HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/181
+#EXTINF:-1 ,AXN | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/182
+#EXTINF:-1 ,Megapix | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/183
+#EXTINF:-1 ,Cinemax | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/184
+#EXTINF:-1 ,HBO | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/185
+#EXTINF:-1 ,HBO | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/186
+#EXTINF:-1 ,HBO2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/187
+#EXTINF:-1 ,HBO 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/188
+#EXTINF:-1 ,HBO Plus | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/189
+#EXTINF:-1 ,HBO Plus | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/190
+#EXTINF:-1 ,HBO Signature | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/191
+#EXTINF:-1 ,HBO Signature | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/192
+#EXTINF:-1 ,HBO Family | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/193
+#EXTINF:-1 ,HBO Family | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/194
+#EXTINF:-1 ,HBO Mundi | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/195
+#EXTINF:-1 ,HBO Mundi | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/196
+#EXTINF:-1 ,HBO xTREME | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/197
+#EXTINF:-1 ,HBO POP | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/198
+#EXTINF:-1 ,Prime Box Brasil
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/199
+#EXTINF:-1 ,Space | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/200
+#EXTINF:-1 ,TCM | SD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/201
+#EXTINF:-1 ,TNT | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/202
+#EXTINF:-1 ,Telecine Cult | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/203
+#EXTINF:-1 ,Telecine Cult | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/204
+#EXTINF:-1 ,Telecine Fun | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/205
+#EXTINF:-1 ,Telecine Fun | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/206
+#EXTINF:-1 ,Telecine Pipoca | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/207
+#EXTINF:-1 ,Telecine Pipoca | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/208
+#EXTINF:-1 ,Telecine Premium | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/209
+#EXTINF:-1 ,Telecine Premium | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/210
+#EXTINF:-1 ,Telecine Touch | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/211
+#EXTINF:-1 ,Telecine Touch | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/212
+#EXTINF:-1 ,Telecine Action | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/213
+#EXTINF:-1 ,Telecine Action | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/214
+#EXTINF:-1 ,Playboy TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/215
+#EXTINF:-1 ,Sextreme | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/216
+#EXTINF:-1 ,Sexy Hot | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/217
+#EXTINF:-1 ,Venus | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/218
+#EXTINF:-1 ,Premiere 6 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/219
+#EXTINF:-1 ,Cinemax | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/220
+#EXTINF:-1 ,AL jadeed
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/221
+#EXTINF:-1 ,TV Gazeta | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/222
+#EXTINF:-1 ,TV Gazeta | HD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/223
+#EXTINF:-1 ,Tooncast | SD
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/224
+#EXTINF:-1 ,H2 | HD
