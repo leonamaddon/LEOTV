@@ -1,611 +1,507 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
-http://iptv.movie:8080/franklin10/franklin10/1521
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
-http://iptv.movie:8080/franklin10/franklin10/375
-#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Área Restrita" tvg-logo="http://logos.servidor.tv/aeroporto24h.jpg" group-title="Canais: 24 Horas",Aeroporto Área Restrita
-http://iptv.movie:8080/franklin10/franklin10/32595
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
-http://iptv.movie:8080/franklin10/franklin10/1498
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
-http://iptv.movie:8080/franklin10/franklin10/373
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
-http://iptv.movie:8080/franklin10/franklin10/1497
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
-http://iptv.movie:8080/franklin10/franklin10/371
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
-http://iptv.movie:8080/franklin10/franklin10/15
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://canaishd.servidor.tv:8080/images/c21badd84a757ee66ed3fff17ff244b7.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan
-http://iptv.movie:8080/franklin10/franklin10/32589
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD
-http://iptv.movie:8080/franklin10/franklin10/1496
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
-http://iptv.movie:8080/franklin10/franklin10/369
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://logos.servidor.tv/babytv.png" group-title="Canais: Infantil",Baby TV SD
-http://iptv.movie:8080/franklin10/franklin10/367
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
-http://iptv.movie:8080/franklin10/franklin10/489
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD+
-http://iptv.movie:8080/franklin10/franklin10/484
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD
-http://iptv.movie:8080/franklin10/franklin10/1494
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD+
-http://iptv.movie:8080/franklin10/franklin10/363
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-http://iptv.movie:8080/franklin10/franklin10/1495
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
-http://iptv.movie:8080/franklin10/franklin10/360
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD
-http://iptv.movie:8080/franklin10/franklin10/1493
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD+
-http://iptv.movie:8080/franklin10/franklin10/358
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Boa Vontade SD" tvg-logo="http://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade SD
-http://iptv.movie:8080/franklin10/franklin10/22508
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://canaishd.servidor.tv:8080/images/94336a363c529a5350ce2e50ccb49e5b.jpg" group-title="Canais: 24 Horas",Bob Esponja
-http://iptv.movie:8080/franklin10/franklin10/32590
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD
-http://iptv.movie:8080/franklin10/franklin10/1492
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
-http://iptv.movie:8080/franklin10/franklin10/355
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://logos.servidor.tv/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
-http://iptv.movie:8080/franklin10/franklin10/353
-#EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="Canal do Boi HD" tvg-logo="http://logos.servidor.tv/canaldoboi.png" group-title="Canais: Abertos",Canal do Boi HD
-http://iptv.movie:8080/franklin10/franklin10/29771
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural HD" tvg-logo="http://logos.servidor.tv/canalrural.gif" group-title="Canais: Abertos",Canal Rural HD
-http://iptv.movie:8080/franklin10/franklin10/29770
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
-http://iptv.movie:8080/franklin10/franklin10/1491
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
-http://iptv.movie:8080/franklin10/franklin10/349
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="http://canaishd.servidor.tv:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves
-http://iptv.movie:8080/franklin10/franklin10/32626
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
-http://iptv.movie:8080/franklin10/franklin10/1490
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
-http://iptv.movie:8080/franklin10/franklin10/347
-#EXTINF:-1 tvg-id="" tvg-name="Clássicos Walt Disney" tvg-logo="http://canaishd.servidor.tv:8080/images/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",Clássicos Walt Disney
-http://iptv.movie:8080/franklin10/franklin10/32624
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
-http://iptv.movie:8080/franklin10/franklin10/21417
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD+" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
-http://iptv.movie:8080/franklin10/franklin10/21418
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
-http://iptv.movie:8080/franklin10/franklin10/345
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
-http://iptv.movie:8080/franklin10/franklin10/344
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
-http://iptv.movie:8080/franklin10/franklin10/1489
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
-http://iptv.movie:8080/franklin10/franklin10/342
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
-http://iptv.movie:8080/franklin10/franklin10/1488
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
-http://iptv.movie:8080/franklin10/franklin10/340
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="http://logos.servidor.tv/cultura.jpg" group-title="Canais: Abertos",Cultura HD
-http://iptv.movie:8080/franklin10/franklin10/29772
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://logos.servidor.tv/curta.png" group-title="Canais: Variedade e Música",Curta! SD
-http://iptv.movie:8080/franklin10/franklin10/338
-#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="http://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte",DAZN HD
-http://iptv.movie:8080/franklin10/franklin10/2716
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
-http://iptv.movie:8080/franklin10/franklin10/1487
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
-http://iptv.movie:8080/franklin10/franklin10/337
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
-http://iptv.movie:8080/franklin10/franklin10/1518
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
-http://iptv.movie:8080/franklin10/franklin10/334
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
-http://iptv.movie:8080/franklin10/franklin10/1483
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
-http://iptv.movie:8080/franklin10/franklin10/332
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
-http://iptv.movie:8080/franklin10/franklin10/1482
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
-http://iptv.movie:8080/franklin10/franklin10/330
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
-http://iptv.movie:8080/franklin10/franklin10/1486
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
-http://iptv.movie:8080/franklin10/franklin10/329
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
-http://iptv.movie:8080/franklin10/franklin10/1481
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
-http://iptv.movie:8080/franklin10/franklin10/328
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
-http://iptv.movie:8080/franklin10/franklin10/1485
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD+
-http://iptv.movie:8080/franklin10/franklin10/326
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
-http://iptv.movie:8080/franklin10/franklin10/1480
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD+" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
-http://iptv.movie:8080/franklin10/franklin10/325
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
-http://iptv.movie:8080/franklin10/franklin10/1478
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
-http://iptv.movie:8080/franklin10/franklin10/323
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
-http://iptv.movie:8080/franklin10/franklin10/1517
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="http://logos.servidor.tv/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
-http://iptv.movie:8080/franklin10/franklin10/683
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Heroes" tvg-logo="http://canaishd.servidor.tv:8080/images/a0ecbc19e5c854d3115005d7ae47990c.png" group-title="Canais: 24 Horas",Dragon Ball Heroes
-http://iptv.movie:8080/franklin10/franklin10/32594
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://canaishd.servidor.tv:8080/images/412d425881bd5b03aa049f1ba655143c.jpg" group-title="Canais: 24 Horas",Dragon Ball Super
-http://iptv.movie:8080/franklin10/franklin10/32623
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://canaishd.servidor.tv:8080/images/726264f3487200fc4a50d834a7bae713.jpg" group-title="Canais: 24 Horas",Dragon Ball Z
-http://iptv.movie:8080/franklin10/franklin10/32622
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://logos.servidor.tv/e.png" group-title="Canais: Variedade e Música",E! HD
-http://iptv.movie:8080/franklin10/franklin10/318
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
-http://iptv.movie:8080/franklin10/franklin10/1476
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
-http://iptv.movie:8080/franklin10/franklin10/314
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
-http://iptv.movie:8080/franklin10/franklin10/1475
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
-http://iptv.movie:8080/franklin10/franklin10/313
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
-http://iptv.movie:8080/franklin10/franklin10/311
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
-http://iptv.movie:8080/franklin10/franklin10/1477
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
-http://iptv.movie:8080/franklin10/franklin10/309
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="http://canaishd.servidor.tv:8080/images/83adf16b5322c408d16b68278723a3f5.jpg" group-title="Canais: 24 Horas",Eu a Patroa e as Crianças
-http://iptv.movie:8080/franklin10/franklin10/32621
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://logos.servidor.tv/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
-http://iptv.movie:8080/franklin10/franklin10/307
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="http://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Netword HD
-http://iptv.movie:8080/franklin10/franklin10/1474
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="http://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
-http://iptv.movie:8080/franklin10/franklin10/306
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD
-http://iptv.movie:8080/franklin10/franklin10/1473
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD+
-http://iptv.movie:8080/franklin10/franklin10/304
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
-http://iptv.movie:8080/franklin10/franklin10/1472
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
-http://iptv.movie:8080/franklin10/franklin10/303
-#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
-http://iptv.movie:8080/franklin10/franklin10/1505
-#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD+" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD+
-http://iptv.movie:8080/franklin10/franklin10/29767
-#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD
-http://iptv.movie:8080/franklin10/franklin10/29768
-#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD+" tvg-logo="http://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD+
-http://iptv.movie:8080/franklin10/franklin10/29769
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
-http://iptv.movie:8080/franklin10/franklin10/1501
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
-http://iptv.movie:8080/franklin10/franklin10/300
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
-http://iptv.movie:8080/franklin10/franklin10/1502
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
-http://iptv.movie:8080/franklin10/franklin10/298
-#EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="http://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
-http://iptv.movie:8080/franklin10/franklin10/1469
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="http://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD+
-http://iptv.movie:8080/franklin10/franklin10/294
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="http://canaishd.servidor.tv:8080/images/3d94d4acf88c16ced5dca83f3efe20a3.jpg" group-title="Canais: 24 Horas",Galinha Pintadinha
-http://iptv.movie:8080/franklin10/franklin10/32609
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="http://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD+
-http://iptv.movie:8080/franklin10/franklin10/2707
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia SD" tvg-logo="http://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia SD
-http://iptv.movie:8080/franklin10/franklin10/260
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
-http://iptv.movie:8080/franklin10/franklin10/291
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Centro America HD+
-http://iptv.movie:8080/franklin10/franklin10/2712
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
-http://iptv.movie:8080/franklin10/franklin10/289
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="http://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
-http://iptv.movie:8080/franklin10/franklin10/2711
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
-http://iptv.movie:8080/franklin10/franklin10/287
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
-http://iptv.movie:8080/franklin10/franklin10/2952
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Sul Minas HD
-http://iptv.movie:8080/franklin10/franklin10/4469
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Sul Minas HD+
-http://iptv.movie:8080/franklin10/franklin10/4468
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD
-http://iptv.movie:8080/franklin10/franklin10/2941
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD+
-http://iptv.movie:8080/franklin10/franklin10/2940
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Goiânia SD" tvg-logo="http://logos.servidor.tv/globotvanhanguera.jpg" group-title="Canais: Abertos",Globo Goiânia SD
-http://iptv.movie:8080/franklin10/franklin10/262
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD
-http://iptv.movie:8080/franklin10/franklin10/4471
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD+
-http://iptv.movie:8080/franklin10/franklin10/4470
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus" tvg-logo="http://logos.servidor.tv/globoredeamazonica.png" group-title="Canais: Abertos",Globo Manaus
-http://iptv.movie:8080/franklin10/franklin10/19
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Minas HD
-http://iptv.movie:8080/franklin10/franklin10/279
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Minas HD+
-http://iptv.movie:8080/franklin10/franklin10/2713
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
-http://iptv.movie:8080/franklin10/franklin10/1468
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD+
-http://iptv.movie:8080/franklin10/franklin10/277
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD
-http://iptv.movie:8080/franklin10/franklin10/275
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD+
-http://iptv.movie:8080/franklin10/franklin10/2714
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC Floripa HD+
-http://iptv.movie:8080/franklin10/franklin10/2710
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD" tvg-logo="http://logos.servidor.tv/globorbs.png" group-title="Canais: Abertos",Globo RBS Poa HD
-http://iptv.movie:8080/franklin10/franklin10/1467
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RBS Poa HD+" tvg-logo="http://logos.servidor.tv/globorbs.png" group-title="Canais: Abertos",Globo RBS Poa HD+
-http://iptv.movie:8080/franklin10/franklin10/271
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
-http://iptv.movie:8080/franklin10/franklin10/1504
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
-http://iptv.movie:8080/franklin10/franklin10/268
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paranaense HD+" tvg-logo="http://logos.servidor.tv/globorpc.png" group-title="Canais: Abertos",Globo RPC Paranaense HD+
-http://iptv.movie:8080/franklin10/franklin10/2709
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC SD" tvg-logo="http://logos.servidor.tv/globorpc.png" group-title="Canais: Abertos",Globo RPC SD
-http://iptv.movie:8080/franklin10/franklin10/266
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD
-http://iptv.movie:8080/franklin10/franklin10/2945
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD+
-http://iptv.movie:8080/franklin10/franklin10/2944
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Sergipe HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Sergipe HD+
-http://iptv.movie:8080/franklin10/franklin10/250
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
-http://iptv.movie:8080/franklin10/franklin10/1466
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
-http://iptv.movie:8080/franklin10/franklin10/265
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Anhanguera HD+
-http://iptv.movie:8080/franklin10/franklin10/2708
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Diario Mogi HD
-http://iptv.movie:8080/franklin10/franklin10/2947
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Diario Mogi HD+
-http://iptv.movie:8080/franklin10/franklin10/2946
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD
-http://iptv.movie:8080/franklin10/franklin10/2943
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD+
-http://iptv.movie:8080/franklin10/franklin10/2942
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo TV Gazeta Alagoas HD+" tvg-logo="http://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD+
-http://iptv.movie:8080/franklin10/franklin10/4467
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo TV Gazeta HD+" tvg-logo="http://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta HD+
-http://iptv.movie:8080/franklin10/franklin10/75
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Integração HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Integração HD
-http://iptv.movie:8080/franklin10/franklin10/22505
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Integração HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Integração HD+
-http://iptv.movie:8080/franklin10/franklin10/22504
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Liberal
-http://iptv.movie:8080/franklin10/franklin10/2706
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Mirante HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Mirante HD+
-http://iptv.movie:8080/franklin10/franklin10/2705
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Morena HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Morena HD+
-http://iptv.movie:8080/franklin10/franklin10/2704
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo TV Santa Cruz SD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Santa Cruz SD
-http://iptv.movie:8080/franklin10/franklin10/29774
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD
-http://iptv.movie:8080/franklin10/franklin10/2949
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD+
-http://iptv.movie:8080/franklin10/franklin10/2948
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD
-http://iptv.movie:8080/franklin10/franklin10/2954
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD+
-http://iptv.movie:8080/franklin10/franklin10/2953
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD
-http://iptv.movie:8080/franklin10/franklin10/2951
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD+
-http://iptv.movie:8080/franklin10/franklin10/2950
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Verdes Mares HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Verdes Mares HD+
-http://iptv.movie:8080/franklin10/franklin10/2703
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD
-http://iptv.movie:8080/franklin10/franklin10/1499
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="http://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
-http://iptv.movie:8080/franklin10/franklin10/686
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="http://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
-http://iptv.movie:8080/franklin10/franklin10/1515
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD+" tvg-logo="http://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD+
-http://iptv.movie:8080/franklin10/franklin10/237
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://logos.servidor.tv/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
-http://iptv.movie:8080/franklin10/franklin10/235
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD
-http://iptv.movie:8080/franklin10/franklin10/1465
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="http://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD+
-http://iptv.movie:8080/franklin10/franklin10/233
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="http://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
-http://iptv.movie:8080/franklin10/franklin10/1460
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="http://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
-http://iptv.movie:8080/franklin10/franklin10/231
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
-http://iptv.movie:8080/franklin10/franklin10/1464
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="http://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
-http://iptv.movie:8080/franklin10/franklin10/229
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD
-http://iptv.movie:8080/franklin10/franklin10/1463
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="http://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD+
-http://iptv.movie:8080/franklin10/franklin10/227
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD
-http://iptv.movie:8080/franklin10/franklin10/1457
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD+" tvg-logo="http://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD+
-http://iptv.movie:8080/franklin10/franklin10/211
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
-http://iptv.movie:8080/franklin10/franklin10/1462
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="http://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
-http://iptv.movie:8080/franklin10/franklin10/226
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
-http://iptv.movie:8080/franklin10/franklin10/1455
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD+" tvg-logo="http://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD+
-http://iptv.movie:8080/franklin10/franklin10/207
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="http://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
-http://iptv.movie:8080/franklin10/franklin10/1461
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="http://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
-http://iptv.movie:8080/franklin10/franklin10/224
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD
-http://iptv.movie:8080/franklin10/franklin10/1456
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD+" tvg-logo="http://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD+
-http://iptv.movie:8080/franklin10/franklin10/209
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
-http://iptv.movie:8080/franklin10/franklin10/1459
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="http://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
-http://iptv.movie:8080/franklin10/franklin10/95
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery SD" tvg-logo="http://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery SD
-http://iptv.movie:8080/franklin10/franklin10/1514
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery HD+" tvg-logo="http://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigação Discovery HD+
-http://iptv.movie:8080/franklin10/franklin10/218
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
-http://iptv.movie:8080/franklin10/franklin10/1458
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD+" tvg-logo="http://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD+
-http://iptv.movie:8080/franklin10/franklin10/216
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="http://canaishd.servidor.tv:8080/images/b69ff6ed96fa4047b090e1cfffd77a27.jpg" group-title="Canais: 24 Horas",Luluzinha
-http://iptv.movie:8080/franklin10/franklin10/32629
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais Globosat HD" tvg-logo="http://logos.servidor.tv/maisglobosat.png" group-title="Canais: Variedade e Música",Mais Globosat HD
-http://iptv.movie:8080/franklin10/franklin10/213
-#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="http://canaishd.servidor.tv:8080/images/467fe2284004a47bda10cd1f17143dd7.jpg" group-title="Canais: 24 Horas",Masha e o Urso
-http://iptv.movie:8080/franklin10/franklin10/32593
-#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="http://canaishd.servidor.tv:8080/images/e210927a2cb7a7d825d1076778fc2959.jpg" group-title="Canais: 24 Horas",Medabots
-http://iptv.movie:8080/franklin10/franklin10/32608
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD
-http://iptv.movie:8080/franklin10/franklin10/1454
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD+" tvg-logo="http://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD+
-http://iptv.movie:8080/franklin10/franklin10/204
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Cartoon" tvg-logo="http://canaishd.servidor.tv:8080/images/2bb72187feaa09b5f53391d430669692.jpg" group-title="Canais: 24 Horas",Mickey Mouse Cartoon
-http://iptv.movie:8080/franklin10/franklin10/32598
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Clássico" tvg-logo="http://logos.servidor.tv/mickeyclassico.png" group-title="Canais: 24 Horas",Mickey Mouse Clássico
-http://iptv.movie:8080/franklin10/franklin10/32597
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://logos.servidor.tv/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD
-http://iptv.movie:8080/franklin10/franklin10/1453
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD+" tvg-logo="http://logos.servidor.tv/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD+
-http://iptv.movie:8080/franklin10/franklin10/202
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
-http://iptv.movie:8080/franklin10/franklin10/1452
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="http://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD+
-http://iptv.movie:8080/franklin10/franklin10/199
-#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="http://canaishd.servidor.tv:8080/images/a857d7d773d7f92e9918d53f07eb8f27.jpg" group-title="Canais: 24 Horas",Mundo Bita
-http://iptv.movie:8080/franklin10/franklin10/32607
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://logos.servidor.tv/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
-http://iptv.movie:8080/franklin10/franklin10/1451
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="http://logos.servidor.tv/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD+
-http://iptv.movie:8080/franklin10/franklin10/195
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://logos.servidor.tv/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD
-http://iptv.movie:8080/franklin10/franklin10/1450
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD+" tvg-logo="http://logos.servidor.tv/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD+
-http://iptv.movie:8080/franklin10/franklin10/193
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="http://logos.servidor.tv/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
-http://iptv.movie:8080/franklin10/franklin10/196
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="http://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD
-http://iptv.movie:8080/franklin10/franklin10/1503
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="http://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
-http://iptv.movie:8080/franklin10/franklin10/187
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
-http://iptv.movie:8080/franklin10/franklin10/1449
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="http://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
-http://iptv.movie:8080/franklin10/franklin10/188
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="Novo Tempo HD" tvg-logo="http://logos.servidor.tv/novotempo.jpg" group-title="Canais: Religião",Novo Tempo HD
-http://iptv.movie:8080/franklin10/franklin10/22507
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="http://canaishd.servidor.tv:8080/images/0dc1830acacc5dd5c401478242ee42f8.jpg" group-title="Canais: 24 Horas",O Pequeno Urso
-http://iptv.movie:8080/franklin10/franklin10/32630
-#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna" tvg-logo="http://canaishd.servidor.tv:8080/images/084c030736e2e02b7d6f9b89efa449c7.jpg" group-title="Canais: 24 Horas",O Show da Luna
-http://iptv.movie:8080/franklin10/franklin10/32606
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://logos.servidor.tv/off.png" group-title="Canais: Variedade e Música",OFF HD
-http://iptv.movie:8080/franklin10/franklin10/183
-#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira América do Sul" tvg-logo="https://f.i.uol.com.br/fotografia/2020/03/13/15841247755e6bd367a7e44_1584124775_3x2_md.jpg" group-title="Canais: 24 Horas",Operação Fronteira América do Sul
-http://iptv.movie:8080/franklin10/franklin10/32681
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="http://canaishd.servidor.tv:8080/images/ced53d26e045bc8376c2fd469c9ed59f.jpg" group-title="Canais: 24 Horas",Os Simpsons
-http://iptv.movie:8080/franklin10/franklin10/32591
-#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno HD" tvg-logo="http://logos.servidor.tv/paieterno.jpg" group-title="Canais: Religião",Pai Eterno HD
-http://iptv.movie:8080/franklin10/franklin10/22509
-#EXTINF:-1 tvg-id="" tvg-name="Papaléguas e o Coiote" tvg-logo="http://canaishd.servidor.tv:8080/images/82d210a469387d9d5db847fe869f4f0a.jpg" group-title="Canais: 24 Horas",Papaléguas e o Coiote
-http://iptv.movie:8080/franklin10/franklin10/32605
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD
-http://iptv.movie:8080/franklin10/franklin10/1448
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD+" tvg-logo="http://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD+
-http://iptv.movie:8080/franklin10/franklin10/181
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="http://canaishd.servidor.tv:8080/images/6cdcafdbd3c8856d103b4f1e67ef5e26.jpg" group-title="Canais: 24 Horas",Patrulha Canina
-http://iptv.movie:8080/franklin10/franklin10/32604
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="http://canaishd.servidor.tv:8080/images/d5f99332ba57d15b3c0c5464caf639aa.jpg" group-title="Canais: 24 Horas",Peppa Pig
-http://iptv.movie:8080/franklin10/franklin10/32631
-#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="http://canaishd.servidor.tv:8080/images/f93374e8176706953debae9e7b74cdc3.jpg" group-title="Canais: 24 Horas",Pica-Pau
-http://iptv.movie:8080/franklin10/franklin10/32588
-#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="http://logos.servidor.tv/playtv.png" group-title="Canais: Variedade e Música",Play TV SD
-http://iptv.movie:8080/franklin10/franklin10/179
-#EXTINF:-1 tvg-id="" tvg-name="Polícia 24 Horas" tvg-logo="http://canaishd.servidor.tv:8080/images/9a3d39b345432abd0a13595b63a358c2.jpg" group-title="Canais: 24 Horas",Polícia 24 Horas
-http://iptv.movie:8080/franklin10/franklin10/32596
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
-http://iptv.movie:8080/franklin10/franklin10/1511
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
-http://iptv.movie:8080/franklin10/franklin10/172
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
-http://iptv.movie:8080/franklin10/franklin10/1510
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
-http://iptv.movie:8080/franklin10/franklin10/170
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
-http://iptv.movie:8080/franklin10/franklin10/1509
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
-http://iptv.movie:8080/franklin10/franklin10/168
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
-http://iptv.movie:8080/franklin10/franklin10/1508
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
-http://iptv.movie:8080/franklin10/franklin10/166
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
-http://iptv.movie:8080/franklin10/franklin10/1507
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
-http://iptv.movie:8080/franklin10/franklin10/164
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
-http://iptv.movie:8080/franklin10/franklin10/1506
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
-http://iptv.movie:8080/franklin10/franklin10/162
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
-https://multicanais.com/assistir-premiere-ao-vivo-24h-hd-gratis/
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
-http://iptv.movie:8080/franklin10/franklin10/159
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Prime Box Brasil HD" tvg-logo="http://logos.servidor.tv/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil HD
-http://iptv.movie:8080/franklin10/franklin10/4456
-#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil HD+" tvg-logo="http://logos.servidor.tv/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil HD+
-http://iptv.movie:8080/franklin10/franklin10/157
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record BA HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record BA HD
-http://iptv.movie:8080/franklin10/franklin10/29777
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record Belem HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record Belem HD
-http://iptv.movie:8080/franklin10/franklin10/29775
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record DF HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record DF HD
-http://iptv.movie:8080/franklin10/franklin10/29776
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record GO HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record GO HD
-http://iptv.movie:8080/franklin10/franklin10/29779
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record MG HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record MG HD
-http://iptv.movie:8080/franklin10/franklin10/29778
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD
-http://iptv.movie:8080/franklin10/franklin10/1513
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD+" tvg-logo="http://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD+
-http://iptv.movie:8080/franklin10/franklin10/405
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record PA HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record PA HD
-http://iptv.movie:8080/franklin10/franklin10/29782
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record RJ HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record RJ HD
-http://iptv.movie:8080/franklin10/franklin10/29780
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record RS HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record RS HD
-http://iptv.movie:8080/franklin10/franklin10/29781
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record SP HD" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record SP HD
-http://iptv.movie:8080/franklin10/franklin10/403
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record SP HD+" tvg-logo="http://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record SP HD+
-http://iptv.movie:8080/franklin10/franklin10/148
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="http://logos.servidor.tv/redetv.png" group-title="Canais: Abertos",Rede TV HD
-http://iptv.movie:8080/franklin10/franklin10/136
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida HD" tvg-logo="http://logos.servidor.tv/redevida.jpg" group-title="Canais: Religião",Rede Vida HD
-http://iptv.movie:8080/franklin10/franklin10/22506
-#EXTINF:-1 tvg-id="aande.br" tvg-name="RIT TV SD" tvg-logo="http://logos.servidor.tv/rittv.jpg" group-title="Canais: Religião",RIT TV SD
-http://iptv.movie:8080/franklin10/franklin10/22510
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="http://logos.servidor.tv/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
-http://iptv.movie:8080/franklin10/franklin10/72
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD
-http://iptv.movie:8080/franklin10/franklin10/1512
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="http://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD+
-http://iptv.movie:8080/franklin10/franklin10/402
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo" tvg-logo="http://canaishd.servidor.tv:8080/images/38371fef7d829c7f8b0e2fedf7a04334.jpg" group-title="Canais: 24 Horas",Scooby-Doo
-http://iptv.movie:8080/franklin10/franklin10/32603
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="Shoptime SD" tvg-logo="" group-title="Canais: Variedade e Música",Shoptime SD
-http://iptv.movie:8080/franklin10/franklin10/29773
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="http://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD
-http://iptv.movie:8080/franklin10/franklin10/1446
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD+" tvg-logo="http://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD+
-http://iptv.movie:8080/franklin10/franklin10/127
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="http://canaishd.servidor.tv:8080/images/6e77e6ec9ed4394409126116a070253a.jpg" group-title="Canais: 24 Horas",South Park
-http://iptv.movie:8080/franklin10/franklin10/32602
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD
-http://iptv.movie:8080/franklin10/franklin10/1445
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD+" tvg-logo="http://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD+
-http://iptv.movie:8080/franklin10/franklin10/125
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-http://iptv.movie:8080/franklin10/franklin10/1443
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="http://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
-http://iptv.movie:8080/franklin10/franklin10/123
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
-http://iptv.movie:8080/franklin10/franklin10/1442
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="http://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
-http://iptv.movie:8080/franklin10/franklin10/121
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
-http://iptv.movie:8080/franklin10/franklin10/1444
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="http://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD+
-http://iptv.movie:8080/franklin10/franklin10/119
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
-http://iptv.movie:8080/franklin10/franklin10/1441
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD+" tvg-logo="http://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD+
-http://iptv.movie:8080/franklin10/franklin10/117
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="http://canaishd.servidor.tv:8080/images/f47d92020e13150d80f89e4116290500.jpg" group-title="Canais: 24 Horas",Super Choque
-http://iptv.movie:8080/franklin10/franklin10/32627
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD
-http://iptv.movie:8080/franklin10/franklin10/1440
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD+" tvg-logo="http://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD+
-http://iptv.movie:8080/franklin10/franklin10/115
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://logos.servidor.tv/tbs.png" group-title="Canais: Filme e Série",TBS HD
-http://iptv.movie:8080/franklin10/franklin10/113
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://logos.servidor.tv/tcm.png" group-title="Canais: Filme e Série",TCM HD
-http://iptv.movie:8080/franklin10/franklin10/99
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
-http://iptv.movie:8080/franklin10/franklin10/1438
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD+" tvg-logo="http://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD+
-http://iptv.movie:8080/franklin10/franklin10/111
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
-http://iptv.movie:8080/franklin10/franklin10/1437
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD+" tvg-logo="http://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD+
-http://iptv.movie:8080/franklin10/franklin10/109
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
-http://iptv.movie:8080/franklin10/franklin10/1436
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD+
-http://iptv.movie:8080/franklin10/franklin10/107
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
-http://iptv.movie:8080/franklin10/franklin10/1435
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD+" tvg-logo="http://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD+
-http://iptv.movie:8080/franklin10/franklin10/105
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
-http://iptv.movie:8080/franklin10/franklin10/1434
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD+" tvg-logo="http://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD+
-http://iptv.movie:8080/franklin10/franklin10/103
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
-http://iptv.movie:8080/franklin10/franklin10/1439
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD+" tvg-logo="http://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD+
-http://iptv.movie:8080/franklin10/franklin10/101
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://logos.servidor.tv/tlc.png" group-title="Canais: Variedade e Música",TLC HD
-http://iptv.movie:8080/franklin10/franklin10/94
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD
-http://iptv.movie:8080/franklin10/franklin10/1433
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD+" tvg-logo="http://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD+
-http://iptv.movie:8080/franklin10/franklin10/92
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
-http://iptv.movie:8080/franklin10/franklin10/1432
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD+" tvg-logo="http://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Séries HD+
-http://iptv.movie:8080/franklin10/franklin10/90
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="http://canaishd.servidor.tv:8080/images/d365303be8ecb3046ea28ac72f2fb9af.jpg" group-title="Canais: 24 Horas",Todo Mundo Odeia o Chris
-http://iptv.movie:8080/franklin10/franklin10/32625
-#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry" tvg-logo="http://canaishd.servidor.tv:8080/images/e59f6d6407b4b8062718363e33e5595e.jpg" group-title="Canais: 24 Horas",Tom e Jerry
-http://iptv.movie:8080/franklin10/franklin10/32600
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="http://logos.servidor.tv/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil HD
-http://iptv.movie:8080/franklin10/franklin10/22513
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Camara HD" tvg-logo="http://logos.servidor.tv/tvcamara.jpg" group-title="Canais: Abertos",TV Camara HD
-http://iptv.movie:8080/franklin10/franklin10/22511
-#EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV Diario HD" tvg-logo="http://logos.servidor.tv/tvdiario.png" group-title="Canais: Abertos",TV Diario HD
-http://iptv.movie:8080/franklin10/franklin10/4473
-#EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV Diario HD+" tvg-logo="http://logos.servidor.tv/tvdiario.png" group-title="Canais: Abertos",TV Diario HD+
-http://iptv.movie:8080/franklin10/franklin10/4472
-#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD" tvg-logo="http://logos.servidor.tv/tvescola.jpg" group-title="Canais: Abertos",TV Escola HD
-http://iptv.movie:8080/franklin10/franklin10/22514
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça HD" tvg-logo="http://logos.servidor.tv/tvjustica.jpg" group-title="Canais: Abertos",TV Justiça HD
-http://iptv.movie:8080/franklin10/franklin10/22512
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado HD" tvg-logo="http://logos.servidor.tv/tvsenado.jpg" group-title="Canais: Abertos",TV Senado HD
-http://iptv.movie:8080/franklin10/franklin10/22515
-#EXTINF:-1 tvg-id="tv5monde.us" tvg-name="TV5 SD" tvg-logo="http://logos.servidor.tv/tv5.png" group-title="Canais: Variedade e Música",TV5 SD
-http://iptv.movie:8080/franklin10/franklin10/69
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="http://canaishd.servidor.tv:8080/images/dbfa8ccc994f646a37d7f8ae25976fa1.jpg" group-title="Canais: 24 Horas",Um Maluco no Pedaço
-http://iptv.movie:8080/franklin10/franklin10/32592
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="http://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD
-http://iptv.movie:8080/franklin10/franklin10/1431
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD+" tvg-logo="http://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD+
-http://iptv.movie:8080/franklin10/franklin10/67
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="http://logos.servidor.tv/vh1.png" group-title="Canais: Variedade e Música",VH1 HD
-http://iptv.movie:8080/franklin10/franklin10/65
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits SD" tvg-logo="http://logos.servidor.tv/vh1.png" group-title="Canais: Variedade e Música",VH1 Mega Hits SD
-http://iptv.movie:8080/franklin10/franklin10/64
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
-http://iptv.movie:8080/franklin10/franklin10/2680
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD+" tvg-logo="http://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD+
-http://iptv.movie:8080/franklin10/franklin10/10
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
-http://iptv.movie:8080/franklin10/franklin10/1430
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="http://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD+
-http://iptv.movie:8080/franklin10/franklin10/61
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD+" tvg-logo="http://logos.servidor.tv/woohoo.jpg" group-title="Canais: Variedade e Música",WooHoo HD+
-http://iptv.movie:8080/franklin10/franklin10/59
+#EXTINF:-1 group-title="A&E",WENDEL TECK A&E
+http://fdpvv.xyz:8080/Vitor/12345/25899
+#EXTINF:-1 group-title="A&E",WENDEL TECK A&E FHD
+http://fdpvv.xyz:8080/Vitor/12345/26184
+#EXTINF:-1 group-title="A&E",WENDEL TECK A&E HD
+http://srv.maxptv.net:8080/BMW497/123123/236
+#EXTINF:-1 group-title="AMC",WENDEL TECK AMC
+http://fdpvv.xyz:8080/Vitor/12345/25905
+#EXTINF:-1 group-title="AMC",WENDEL TECK AMC HD
+http://fdpvv.xyz:8080/Vitor/12345/25906
+#EXTINF:-1 group-title="AMC",WENDEL TECK Amc HD
+http://srv.maxptv.net:8080/BMW497/123123/512
+#EXTINF:-1 group-title="Animal Planet",WENDEL TECK BR Animal Planet
+http://fdpvv.xyz:8080/Vitor/12345/25907
+#EXTINF:-1 group-title="Animal Planet",WENDEL TECK BR Animal Planet FHD
+http://fdpvv.xyz:8080/Vitor/12345/26186
+#EXTINF:-1 group-title="Animal Planet",WENDEL TECK BR Animal Planet HD
+http://fdpvv.xyz:8080/Vitor/12345/25908
+#EXTINF:-1 group-title="Arte 1",WENDEL TECK Arte 1
+http://fdpvv.xyz:8080/Vitor/12345/25914
+#EXTINF:-1 group-title="AXN",WENDEL TECK AXN
+http://fdpvv.xyz:8080/Vitor/12345/25910
+#EXTINF:-1 group-title="BAND",WENDEL TECK Band
+http://fdpvv.xyz:8080/Vitor/12345/25914
+#EXTINF:-1 group-title="BAND",WENDEL TECK Band Campinas HD
+http://srv.maxptv.net:8080/BMW497/123123/242
+#EXTINF:-1 group-title="BAND",Band Campinas SD
+http://srv.maxptv.net:8080/BMW497/123123/241
+#EXTINF:-1 group-title="Cameras",Praça da Inspiração - Goiânia
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1619468484.m3u8
+#EXTINF:-1 group-title="Cameras",Ponta da Praia - Santos SP
+https://b9.hdrelay.com/camera/33f005a3-17ea-47d8-a816-e41d7d5c5cc0/relay/chunklist_w471073967.m3u8
+#EXTINF:-1 group-title="Cameras",Barra da Tijuca
+https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w2094923708.m3u8
+#EXTINF:-1 group-title="Cameras",Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Cameras",Cascavel Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameraecocataratas/cameraecocataratas.stream/chunklist_w127724520.m3u8
+#EXTINF:-1 group-title="Cameras",Pico do Gavião
+https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist_w1815578017.m3u8
+#EXTINF:-1 group-title="Cameras",Praia de Tramandaí
+http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w544980703.m3u8
+#EXTINF:-1 group-title="Cameras",Florianópolis - Praia dos Ingleses
+https://ipc-80.camerite.com/1dia/9fd34730-1a6a-11e9-81f3-07b0e1c82f3e.stream/chunklist.m3u8
+====================================================================Cartoon Network
+#EXTINF:-1 group-title="Cartoon Network",BR Cartoon Network
+http://fdpvv.xyz:8080/Vitor/12345/25931
+#EXTINF:-1 group-title="Cartoon Network",Cartoon Network HD
+http://srv.maxptv.net:8080/BMW497/123123/524
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25942
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/26217
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25943
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25944
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/26218
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25945
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25946
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25947
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/26219
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25948
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25949
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25950
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25951
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/26220
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25952
+#EXTINF:-1 group-title="Discovery",Discovery Channel
+http://fdpvv.xyz:8080/Vitor/12345/25953
+#EXTINF:-1 group-title="Discovery",Discovery Home & Health HD
+http://srv.maxptv.net:8080/BMW497/123123/191
+#EXTINF:-1 group-title="Discovery",Discovery Home & Health SD
+http://srv.maxptv.net:8080/BMW497/123123/190
+#EXTINF:-1 group-title="Discovery",Discovery Kids HD
+http://srv.maxptv.net:8080/BMW497/123123/189
+#EXTINF:-1 group-title="Discovery",Discovery Kids SD
+http://srv.maxptv.net:8080/BMW497/123123/188
+#EXTINF:-1 group-title="Discovery",Discovery Science HD
+http://srv.maxptv.net:8080/BMW497/123123/187
+#EXTINF:-1 group-title="Discovery",Discovery Science SD
+http://srv.maxptv.net:8080/BMW497/123123/186
+#EXTINF:-1 group-title="Discovery",Discovery Theater HD
+http://srv.maxptv.net:8080/BMW497/123123/185
+#EXTINF:-1 group-title="Discovery",Discovery Theater SD
+http://srv.maxptv.net:8080/BMW497/123123/184
+#EXTINF:-1 group-title="Discovery",Discovery Turbo HD
+http://srv.maxptv.net:8080/BMW497/123123/183
+#EXTINF:-1 group-title="Discovery",Discovery Turbo SD
+http://srv.maxptv.net:8080/BMW497/123123/182
+#EXTINF:-1 group-title="Discovery",Discovery World HD
+http://srv.maxptv.net:8080/BMW497/123123/181
+#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
+http://fdpvv.xyz:8080/Vitor/12345/25955
+#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
+http://fdpvv.xyz:8080/Vitor/12345/25956
+#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
+http://fdpvv.xyz:8080/Vitor/12345/25957
+#EXTINF:-1 group-title="DISNEY",DISNEY CHANNEL
+http://fdpvv.xyz:8080/Vitor/12345/26221
+#EXTINF:-1 group-title="DISNEY",Disney Channel  HD
+http://srv.maxptv.net:8080/BMW497/123123/179
+#EXTINF:-1 group-title="DISNEY",Disney Channel SD
+http://srv.maxptv.net:8080/BMW497/123123/178
+#EXTINF:-1 group-title="DISNEY",Disney Junior HD
+http://srv.maxptv.net:8080/BMW497/123123/177
+#EXTINF:-1 group-title="DISNEY",Disney Junior SD
+http://srv.maxptv.net:8080/BMW497/123123/176
+#EXTINF:-1 group-title="DISNEY",Disney XD HD
+http://srv.maxptv.net:8080/BMW497/123123/175
+#EXTINF:-1 group-title="Esportes",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 group-title="Esportes",All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Esportes",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="Esportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN
+http://a.srvbr.me:8880/138883/138883/4643
+#EXTINF:-1 group-title="ESPN",ESPN HD
+http://a.srvbr.me:8880/138883/138883/848
+#EXTINF:-1 group-title="ESPN",ESPN Full HD
+http://a.srvbr.me:8880/138883/138883/5458
+#EXTINF:-1 group-title="ESPN",ESPN HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/1839
+#EXTINF:-1 group-title="ESPN",ESPN +  HD
+http://a.srvbr.me:8880/138883/138883/851
+#EXTINF:-1 group-title="ESPN",ESPN EXTRA HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/1837
+#EXTINF:-1 group-title="ESPN",ESPN Brasil
+http://a.srvbr.me:8880/138883/138883/850
+#EXTINF:-1 group-title="ESPN",ESPN Brasil HD
+http://a.srvbr.me:8880/138883/138883/849
+#EXTINF:-1 group-title="ESPN",ESPN Brasil Full HD
+http://a.srvbr.me:8880/138883/138883/5459
+#EXTINF:-1 group-title="ESPN",ESPN Brasil HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/1838
+#EXTINF:-1 group-title="GLOBO",Globo Brasília
+http://a.srvbr.me:8880/138883/138883/831
+#EXTINF:-1 group-title="GLOBO",Globo TV Centro America
+http://a.srvbr.me:8880/138883/138883/5127
+#EXTINF:-1 group-title="GLOBO",Globo EPTV Campinas
+http://a.srvbr.me:8880/138883/138883/5130
+#EXTINF:-1 group-title="GLOBO",Globo EPTV Campinas HD
+http://a.srvbr.me:8880/138883/138883/5314
+#EXTINF:-1 group-title="GLOBO",Globo Ribeirão Preto
+http://a.srvbr.me:8880/138883/138883/5312
+#EXTINF:-1 group-title="GLOBO",Globo Ribeirão Preto HD
+http://a.srvbr.me:8880/138883/138883/5313
+#EXTINF:-1 group-title="GLOBO",Globo - TV Bahia
+http://a.srvbr.me:8880/138883/138883/5071
+#EXTINF:-1 group-title="GLOBO",Globo - TV Bahia HD
+http://a.srvbr.me:8880/138883/138883/5309
+#EXTINF:-1 group-title="GLOBO",Globo Minas
+http://a.srvbr.me:8880/138883/138883/830
+#EXTINF:-1 group-title="GLOBO",Globo Minas HD
+http://a.srvbr.me:8880/138883/138883/5093
+#EXTINF:-1 group-title="GLOBO",Globo News
+http://a.srvbr.me:8880/138883/138883/826
+#EXTINF:-1 group-title="GLOBO",Globo News HD
+http://a.srvbr.me:8880/138883/138883/1498
+#EXTINF:-1 group-title="GLOBO",Globo Nordeste
+http://a.srvbr.me:8880/138883/138883/5067
+#EXTINF:-1 group-title="GLOBO",Globo Nordeste HD
+http://a.srvbr.me:8880/138883/138883/5073
+#EXTINF:-1 group-title="GLOBO",Globo - RBS TV
+http://a.srvbr.me:8880/138883/138883/764
+#EXTINF:-1 group-title="GLOBO",Globo - RBS TV HD
+http://a.srvbr.me:8880/138883/138883/5311
+#EXTINF:-1 group-title="GLOBO",Globo RJ
+http://a.srvbr.me:8880/138883/138883/829
+#EXTINF:-1 group-title="GLOBO",Globo RJ HD
+http://a.srvbr.me:8880/138883/138883/828
+#EXTINF:-1 group-title="GLOBO",Globo NSC TV Florianopolis
+http://a.srvbr.me:8880/138883/138883/5421
+#EXTINF:-1 group-title="GLOBO",Globo NSC TV Florianopolis HD
+http://a.srvbr.me:8880/138883/138883/5420
+#EXTINF:-1 group-title="GLOBO",Globo Curitiba
+http://a.srvbr.me:8880/138883/138883/5128
+#EXTINF:-1 group-title="GLOBO",Globo SP
+http://a.srvbr.me:8880/138883/138883/827
+#EXTINF:-1 group-title="GLOBO",Globo SP HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/5528
+#EXTINF:-1 group-title="GLOBO",Globo Anhaguera Goiania
+http://a.srvbr.me:8880/138883/138883/5074
+#EXTINF:-1 group-title="GLOBO",Globo TV Tribuna Santos
+http://a.srvbr.me:8880/138883/138883/5126
+#EXTINF:-1 group-title="GLOBO",TV Vanguarda Sao Jose dos Campos
+http://a.srvbr.me:8880/138883/138883/5125
+#EXTINF:-1 group-title="GLOBO",Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/138883/138883/5069
+#EXTINF:-1 group-title="GLOBO",Globo TV TEM S.J. Rio Preto
+http://a.srvbr.me:8880/138883/138883/5307
+#EXTINF:-1 group-title="GLOBO",Globo TV TEM S.J. Rio Preto HD
+http://a.srvbr.me:8880/138883/138883/5308
+#EXTINF:-1 group-title="GLOBO",Globo - TV TEM Bauru
+http://a.srvbr.me:8880/138883/138883/714
+#EXTINF:-1 group-title="GLOBO",Globo - TV TEM Sorocaba
+http://a.srvbr.me:8880/138883/138883/713
+#EXTINF:-1 group-title="RECORD",TV RECORD (RN)
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Natal
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="RECORD",Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record BH
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record DF
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record BA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record MA
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record GO
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1 group-title="RECORD",Record PA
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Natal
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Distrito Federal
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 group-title="RECORD",RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1 group-title="SBT",SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT - TV Cidade Verde - (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+#EXTINF:-1 group-title="SBT",SBT - TV Difusora (MA)
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT - TV Serra Dourada - (GO)
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 group-title="SBT",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1 group-title="SBT",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 group-title="SBT",SBT
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 group-title="SBT",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?LISTASDAGLAU
+#EXTINF:-1 group-title="SBT",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?LISTASDAGLAU
+#EXTINF:-1 group-title="SBT",SBT
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:-1 group-title="Cultura",TV Baiana - Cultura
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+#EXTINF:-1 group-title="Cultura",Cultura Pará
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 group-title="Nick JR",Nick Jr.
+http://a.srvbr.me:8880/139427/139427/788
+#EXTINF:-1 group-title="Nick JR",Nick Jr. HD
+http://a.srvbr.me:8880/139427/139427/5301
+#EXTINF:-1 group-title="NOTICIAS",CNN BRASIL - TEMPORÁRIO
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL",KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:-1 group-title="INFANTIL",TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Documentários",RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 group-title="Documentários",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:-1 group-title="Documentários",GarageTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w275294852_b1296000_sleng.m3u8
+#EXTINF:-1 group-title="Documentários",RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 group-title="Documentários",History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
+#EXTINF:-1 group-title="Documentários",DW - German
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 group-title="Documentários",DW - Latino América
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",CINE GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Música",RTL (Itália)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+#EXTINF:-1 group-title="Música",Otto Fm TV
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 group-title="Música",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/playlist.m3u8
+#EXTINF:-1 group-title="Música",DJing
+https://www.djing.com/tv/29054-03.m3u8
+#EXTINF:-1 group-title="Música",DJing Animation
+https://www.djing.com/tv/a-28904-04.m3u8
+#EXTINF:-1 group-title="Música",Sexy KpopTV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+#EXTINF:-1 group-title="Músicas",LFM TV
+https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
+#EXTINF:-1 group-title="Músicas",Music Channel Romania
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
+#EXTINF:-1 group-title="Músicas",KpopTV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+#EXTINF:-1 group-title="Músicas",KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Música",Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Música",RETRO MUSIC HD**
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Música",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1 group-title="Música",Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 group-title="Música",M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="Música",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Rádios",FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 group-title="Rádios",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 group-title="Rádios",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 group-title="Rádios",Radio HITS
+http://stream.zeno.fm/91gxfe0gtqzuv
+#EXTINF:-1 group-title="Rádios",1.FM - Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3
+#EXTINF:-1 group-title="Rádios",JB FM
+https://18623.live.streamtheworld.com/JBFMAAC1.aac
+#EXTINF:-1 group-title="Rádios",Nativa SP
+https://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w1902334984.m3u8
+#EXTINF:-1 group-title="Rádios",Alpha SP
+https://ice.fabricahost.com.br/alphafm1017?compat=1
+#EXTINF:-1 group-title="REGIONAIS",TV Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="REGIONAIS",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="REGIONAIS",REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
+#EXTINF:-1 group-title="REGIONAIS",TV CARA DA BAHIA [BA]
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV AMBIENTAL [ES]
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+#EXTINF:-1 group-title="REGIONAIS",REDE MINAS [MG]
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONAIS",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONAIS",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONAIS",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+#EXTINF:-1 group-title="REGIONAIS",TV FAAP [SP]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="REGIONAIS",REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV CARA DA BAHIA [BA]
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+#EXTINF:-1 group-title="REGIONAIS",TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+#EXTINF:-1 group-title="Religioso",Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Aparecida
+https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF:-1 group-title="Religioso",Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",IURD TV
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 group-title="TELECINE",BR TELECINE ACTION
+http://fdpvv.xyz:8080/Vitor/12345/20945
+#EXTINF:-1 group-title="TELECINE",BR Telecine Action
+http://fdpvv.xyz:8080/Vitor/12345/26150
+#EXTINF:-1 group-title="TELECINE",BR Telecine Action FHD
+http://fdpvv.xyz:8080/Vitor/12345/26312
+#EXTINF:-1 group-title="TELECINE",BR Telecine Action HD
+http://fdpvv.xyz:8080/Vitor/12345/26151
+#EXTINF:-1 group-title="TELECINE",BR Telecine Fun
+http://fdpvv.xyz:8080/Vitor/12345/26153
+#EXTINF:-1 group-title="TELECINE",BR Telecine Fun FHD
+http://fdpvv.xyz:8080/Vitor/12345/26314
+#EXTINF:-1 group-title="TELECINE",BR Telecine Fun HD
+http://fdpvv.xyz:8080/Vitor/12345/26154
+#EXTINF:-1 group-title="TELECINE",BR Telecine Pipoca
+http://fdpvv.xyz:8080/Vitor/12345/26155
+#EXTINF:-1 group-title="TELECINE",BR Telecine Pipoca FHD
+http://fdpvv.xyz:8080/Vitor/12345/26315
+#EXTINF:-1 group-title="TELECINE",BR Telecine Pipoca HD
+http://fdpvv.xyz:8080/Vitor/12345/26156
+#EXTINF:-1 group-title="TELECINE",BR Telecine Premium
+http://fdpvv.xyz:8080/Vitor/12345/26157
+#EXTINF:-1 group-title="TELECINE",BR Telecine Premium FHD
+http://fdpvv.xyz:8080/Vitor/12345/26316
+#EXTINF:-1 group-title="TELECINE",BR Telecine Premium HD
+http://fdpvv.xyz:8080/Vitor/12345/26158
+#EXTINF:-1 group-title="TELECINE",BR Telecine Touch
+http://fdpvv.xyz:8080/Vitor/12345/26159
+#EXTINF:-1 group-title="TELECINE",Telecine Action
+http://a.srvbr.me:8880/138883/138883/733
+#EXTINF:-1 group-title="TELECINE",Telecine Action HD
+http://a.srvbr.me:8880/138883/138883/739
+#EXTINF:-1 group-title="TELECINE",Telecine Action Full HD
+http://a.srvbr.me:8880/138883/138883/5464
+#EXTINF:-1 group-title="TELECINE",Telecine Action HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/1862
+#EXTINF:-1 group-title="TELECINE",Telecine Cult
+http://a.srvbr.me:8880/138883/138883/732
+#EXTINF:-1 group-title="TELECINE",Telecine Cult HD
+http://a.srvbr.me:8880/138883/138883/1482
+#EXTINF:-1 group-title="TELECINE",Telecine Cult HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/4108
+#EXTINF:-1 group-title="TELECINE",Telecine Fun
+http://a.srvbr.me:8880/138883/138883/731
+#EXTINF:-1 group-title="TELECINE",Telecine Fun HD
+http://a.srvbr.me:8880/138883/138883/738
+#EXTINF:-1 group-title="TELECINE",Telecine Fun Full HD
+http://a.srvbr.me:8880/138883/138883/5463
+#EXTINF:-1 group-title="TELECINE",Telecine Fun HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/1863
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca
+http://a.srvbr.me:8880/138883/138883/730
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca HD
+http://a.srvbr.me:8880/138883/138883/737
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca Full HD
+http://a.srvbr.me:8880/138883/138883/5462
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca HD [PLUS]
+http://a.srvbr.me:8880/138883/138883/1864
+#EXTINF:-1 group-title="TELECINE",Telecine Premium
+http://a.srvbr.me:8880/138883/138883/729
+#EXTINF:-1 group-title="TELECINE",Telecine Premium HD
+http://a.srvbr.me:8880/138883/138883/736
+#EXTINF:-1 group-title="TELECINE",Telecine Premium Full HD
+http://a.srvbr.me:8880/138883/138883/5461
+#EXTINF:-1 group-title="TELECINE",Telecine Touch
+http://a.srvbr.me:8880/138883/138883/728
+#EXTINF:-1 group-title="TELECINE",Telecine Touch HD
+http://a.srvbr.me:8880/138883/138883/735
+#EXTINF:-1 group-title="TELECINE",Telecine Touch Full HD
+http://a.srvbr.me:8880/138883/138883/5460
+#EXTINF:-1 group-title="TELECINE",Telecine Action HD
+http://srv.maxptv.net:8080/BMW497/123123/35
+#EXTINF:-1 group-title="TELECINE",Telecine Action SD
+http://srv.maxptv.net:8080/BMW497/123123/34
+#EXTINF:-1 group-title="TELECINE",Telecine Cult HD
+http://srv.maxptv.net:8080/BMW497/123123/33
+#EXTINF:-1 group-title="TELECINE",Telecine Cult SD
+http://srv.maxptv.net:8080/BMW497/123123/32
+#EXTINF:-1 group-title="TELECINE",Telecine Fun HD
+http://srv.maxptv.net:8080/BMW497/123123/31
+#EXTINF:-1 group-title="TELECINE",Telecine Fun SD
+http://srv.maxptv.net:8080/BMW497/123123/30
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca HD
+http://srv.maxptv.net:8080/BMW497/123123/29
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca SD
+http://srv.maxptv.net:8080/BMW497/123123/28
+#EXTINF:-1 group-title="TELECINE",Telecine Premium HD
+http://srv.maxptv.net:8080/BMW497/123123/27
+#EXTINF:-1 group-title="TELECINE",Telecine Premium SD
+http://srv.maxptv.net:8080/BMW497/123123/26
+#EXTINF:-1 group-title="TELECINE",Telecine Touch HD
