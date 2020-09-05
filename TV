@@ -1,131 +1,105 @@
 #EXTM3U
-#EXTINF:0 group-title="CANAIS BRASILEIROS",  ´
-#EXTSIZE: Big
-#EXTBG:http://i.imgur.com/rR0GWJK.jpg
-http://0.0.0.0
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", GLOBO
-http://95.141.35.104:8081/looktvs/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", GLOBO
-http://95.141.32.213:8081/looktvs/globo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", GLOBO
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
 
-#EXTINF:0 type="stream" channelId="2433" , SBT
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", SBT
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT SP INTERIOR
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", BAND
-http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", BAND
-http://158.58.172.5:8081/look/band/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", NICKELODEON
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", DISNEY XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", MULTISHOW
-http://95.141.32.213:8081/look/eimax/playlist.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ HD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", GLOBO NEWS
-http://158.58.172.5:8081/look/globonewl/playlist.m3u8
+#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD SP
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", RECORD NEWS
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", RECORD NEWS ES
-http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", GV NEWS
-http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", TV CULTURA
-http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", FUTURA
-http://cdn.srv.br:8088/UCSTV/UCSTV/chunks.m3u8
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE FAMILIA
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/xFMJnfA.png" group-title="CANAIS BRASILEIROS", TV DIARIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", RETRO CARTOON
-http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", TV GAZETA
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", TV GAZETA
-http://172.93.110.130:1935/televisaorn/televisaorn/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", TV UNIÃO
-http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", AGRO CANAL
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="MUSICAS",Multishow
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/qmTaflk.png" group-title="CANAIS BRASILEIROS", TV CAMARA 1
-http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/qmTaflk.png" group-title="CANAIS BRASILEIROS", TV CAMARA 2
-http://stream2.camara.gov.br:8134/tv2/manifest.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/yG3hjZW.png" group-title="CANAIS BRASILEIROS", MULTITV
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+ 
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE BRASIL
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE SUPER
-http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN EXTRA
+http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/hHaH74V.png" group-title="CANAIS BRASILEIROS", AMAZON SAT
-http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", TV APARECIDA
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE GOSPEL
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", HORSE BRASIL CHANNEL
-http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8
 
-#EXTINF:0 group-title="CANAIS DE ESPORTES", COMBATE
-http://158.58.172.5:8081/looktvs/combate/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",RECORD NEWS
+http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
 
-#EXTINF:0 group-title="CANAIS DE ESPORTES", SPORTV
-http://95.141.35.104:8081/looktvs/sportv/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS DE ESPORTES", FOX SPORTS
-http://158.58.172.5:8081/looktvs/foxsport/playlist.m3u8
 
-#EXTINF:0 group-title="CANAIS DE ESPORTES", ESPN BRASIL
-http://158.58.172.5:8081/look/espnbrs/playlist.m3u8
+ 
 
-#EXTINF:0 group-title="CANAIS DE ESPORTES", PREMIEREFC
-http://95.141.35.104:8081/looktvs/pfcz/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/H4X2xiN.png" group-title="CANAIS DE ESPORTES", TV ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+
+
+
+
+
+
+
