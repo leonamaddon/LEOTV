@@ -37,6 +37,18 @@
 
 <channels>
 <channel>
+<name>MAHOU SHOUJO MADOKA MAGIKA</name>
+<thumbnail>https://ia601504.us.archive.org/29/items/madokaq-ypuvih-kyirbm-vrd-ejbz-3-zyp-te-e/MADOKAqYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/leonamaddon/LEOTV/master/MAHOU%20SHOUJO%20MADOKA%20MAGIKA</externallink>
+<fanart>https://ia601402.us.archive.org/31/items/madoka-fanaapy-ee-ka-5-qcm-omau-p-9tbs-pm-8sjud/MADOKA%20FANAapyEeKa5QcmOmauP9tbsPm8sjud.jpg</fanart>
+
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>YU YU HAKUSHO COLETANEA</name>
 <thumbnail>https://ia601405.us.archive.org/15/items/yusem-titulo/YUSem%20t%C3%ADtulo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/leonamaddon/LEOTV/master/YU%20YU%20HAKUSHO%20COLETANEA</externallink>
