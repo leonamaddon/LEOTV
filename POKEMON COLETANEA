@@ -13,6 +13,19 @@
 
 <channels>
 <channel>
+<name>POKEMON SUN AND MOON</name>
+<thumbnail>https://ia601503.us.archive.org/12/items/pokenon-sun-81-bho-kmzl-l.-ac-sx-679/POKENON%20SUN81BHoKM%2BzlL._AC_SX679_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/leonamaddon/LEOTV/master/POKEMON%20%20SUN%20AND%20MOON</externallink>
+<fanart>https://ia601503.us.archive.org/12/items/pokenon-sun-81-bho-kmzl-l.-ac-sx-679/POKENON%20SUN81BHoKM%2BzlL._AC_SX679_.jpg</fanart>
+
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>POKEMON FILMES</name>
 <thumbnail>https://ia601408.us.archive.org/32/items/pokemon-filmesb-23c-92cee-3fa-1b-269fe-1f-575899af-713/POKEMON%20FILMESb23c92cee3fa1b269fe1f575899af713.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/leonamaddon/LEOTV/master/POKEMON%20FILMES</externallink>
