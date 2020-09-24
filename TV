@@ -49,7 +49,7 @@ http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b54
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_b62670574ff67a6876cf25f14efdc8b0a5b61f8c/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
@@ -70,7 +70,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="MUSICAS",Multishow
-https://topcanais.com/assistir-globo-rj-ao-vivo-24-horas-online/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_b62670574ff67a6876cf25f14efdc8b0a5b61f8c/playlist.m3u8
 
 
  
