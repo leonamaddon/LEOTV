@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO SP
-https://multicanais.com/assistir-fox-ao-vivo-online/html?m=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO SP
+https://streaming.belugacdn.link/a/hls1/telecinepremium-v2.m3u8?expires=1600676133&token=b0bfecfd44c13564b08689ab93068647
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
-https://topcanais.com/assistir-globo-rj-ao-vivo-24-horas-online/
+https://topcanais.com/assistir-globo-rj-ao-vivo-24-horas-online/video.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT SD
+https://streaming.belugacdn.link/a/hls1/telecinepremium-v2.m3u8?expires=1600676133&token=b0bfecfd44c13564b08689ab93068647.video.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT HD
+https://streaming.belugacdn.link/a/hls1/telecinepremium-v2.m3u8?expires=1600676133&token=b0bfecfd44c13564b08689ab93068647.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
