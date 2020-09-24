@@ -20,8 +20,30 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv" tvg-id="0" group-title="CANAIS",ANIMAL PLANET
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_d0007b57a9dc16ca807816c15ea1133a7961f576/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wVaBbB0V5hsJl_0BE4EvSloZj0CmAq1rB84uEGWhYgmkM7sE" group-title="CANAIS",AXN
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/axn_cb7a1d77_8bb4e416ac24ca0c97c8fc62d648ca948fd0ab47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bis_53e56691_70c5c56fe5091032be681a1c71c18a6e213e23e7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" tvg-id="0" group-title="CANAIS",BOOMERANG
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/boomerang_2659fc51_7c10833f5b391a2d09bc7ccfce36d1b09441ef14/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
 http://177.139.171.102:27030/live/alvaro/17/124.ts
@@ -38,8 +60,7 @@ http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90d
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_b62670574ff67a6876cf25f14efdc8b0a5b61f8c/playlist.m3u8
+
 
 
 
