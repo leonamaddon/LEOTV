@@ -4,7 +4,7 @@
 https://streaming.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1601002787&token=f6c52e89179eaeceda0b1273959340a3vivo_d5f664391.html.video.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_b62670574ff67a6876cf25f14efdc8b0a5b61f8c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT SD
 https://streaming.belugacdn.link/a/hls1/telecinepremium-v2.m3u8?expires=1600676133&token=b0bfecfd44c13564b08689ab93068647.video.m3u8
@@ -70,7 +70,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="MUSICAS",Multishow
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_b62670574ff67a6876cf25f14efdc8b0a5b61f8c/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
 
 
  
