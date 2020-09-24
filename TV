@@ -4,7 +4,7 @@
 https://redecanaistv.com/assistir-telecine-premium-online-24-horas-ao-https://streaming.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1601002787&token=f6c52e89179eaeceda0b1273959340a3vivo_d5f664391.html.video.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
-https://topcanais.com/assistir-globo-rj-ao-vivo-24-horas-online/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT SD
 https://streaming.belugacdn.link/a/hls1/telecinepremium-v2.m3u8?expires=1600676133&token=b0bfecfd44c13564b08689ab93068647.video.m3u8
@@ -34,7 +34,7 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE 
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
