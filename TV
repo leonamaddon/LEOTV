@@ -1,25 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO SP
-https://streaming.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1601002787&token=f6c52e89179eaeceda0b1273959340a3vivo_d5f664391.html.video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_e1254f1822e6249d60a93ebb0bd788832ce5a9d1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_c109a28233cddb39a3a28ef9bdf79ecb41029571/playlist.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/band_49e3d046_9f7ab96b5645879a2c11f89d1746c203f56b60ae/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD 
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/record_3554dce5_85d763e4d8e4b97ded040203c9cca5af0ec6b152/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1b32110260e7033b544a67cc00/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wVaBbB0V5hsJl_0BE4EvSloZj0CmAq1rB84uEGWhYgmkM7sE" group-title="CANAIS",AXN
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/axn_cb7a1d77_8bb4e416ac24ca0c97c8fc62d648ca948fd0ab47/playlist.m3u8
+
+EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/124.ts
+
 
 
 
