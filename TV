@@ -21,7 +21,8 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1
 
 
 
-
+#EXTINF:-1 tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentralLogo.jpg" tvg-id="0" group-title="CANAIS",AMC
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/amcbrasil_b7f5113f_10f9b6544db6474c222208970bf0d6e52e29cebc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv" tvg-id="0" group-title="CANAIS",ANIMAL PLANET
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_d0007b57a9dc16ca807816c15ea1133a7961f576/playlist.m3u8
@@ -35,22 +36,32 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bis_53e56691_db1331eb49d1a37d7
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" tvg-id="0" group-title="CANAIS",BOOMERANG
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/boomerang_2659fc51_7c10833f5b391a2d09bc7ccfce36d1b09441ef14/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk" tvg-id="0" group-title="CANAIS",CARTOON NETWORK
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_6d831c23eefc10509a1b228040aff9a68e96da46/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618497065283416064/B50suy-t_400x400.png" tvg-id="0" group-title="CANAIS",CINEMAX
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cinemax_22d200f8_014f0f5e44056ee09e00cadf49b590cd5cb079c8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" tvg-id="0" group-title="CANAIS",DISCOVERY CHANNEL
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/discoverychannel_af3e1334_097c2610c09f0ee976f403117f214d531135e8eb/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",DISCOVERY HOME E HEALTH
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryhomehealth_84582c1d_35e868b7c87ca1fe0211c6e1483754eb43d250e3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCp72c6.png" tvg-id="0" group-title="CANAIS",DISCOVERY KIDS
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverykids_80e28a51_9bc63bc6ae2d8cee075b299ed5c326d5097243b3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" tvg-id="0" group-title="CANAIS",DISCOVERY SCIENCE
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryscience_77c8184f_39b051be6dcb662cf31665dd1c99e45c115141dd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0TyXIA.png" tvg-id="0" group-title="CANAIS",DISCOVERY THEATER
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverytheater_904f2cc1_0469ebf853c3d6677138c371f0c3d5aaa1f857ba/playlist.m3u8
 
+EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverytheater_904f2cc1_0469ebf853c3d6677138c371f0c3d5aaa1f857ba/playlist.m3u8
 
-
-
-EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/124.ts
-
-
-
-
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/disney-channel-logo-2015-600x300.jpg" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneychannel_a9334987_f491ff0e1637982369b83906d909e6b76e92bcd0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="MUSICAS",Multishow
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
