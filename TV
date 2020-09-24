@@ -57,8 +57,8 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RJ
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png",RECORD RJ HD
+http://www.olhosnatv.com.br/2020/03/record-tv-df.html?m=1
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
