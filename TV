@@ -29,8 +29,8 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_d00
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wVaBbB0V5hsJl_0BE4EvSloZj0CmAq1rB84uEGWhYgmkM7sE" group-title="CANAIS",AXN
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/axn_cb7a1d77_8bb4e416ac24ca0c97c8fc62d648ca948fd0ab47/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bis_53e56691_70c5c56fe5091032be681a1c71c18a6e213e23e7/playlist.m3u8
+#EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="CANAIS",BIS
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bis_53e56691_db1331eb49d1a37d706dd85576ef2af262d2ecc0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" tvg-id="0" group-title="CANAIS",BOOMERANG
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/boomerang_2659fc51_7c10833f5b391a2d09bc7ccfce36d1b09441ef14/playlist.m3u8
