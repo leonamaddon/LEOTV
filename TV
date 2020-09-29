@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO SP
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_e1254f1822e6249d60a93ebb0bd788832ce5a9d1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ2
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT2
@@ -223,11 +217,8 @@ http://ts.ec.cx:8080/a/hls1/history2.m3u8
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA
 http://ts.ec.cx:8080/a/hls1/viva.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow1
-http://ts.ec.cx:8080/a/hls1/multishow.m3u8
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
+http://ts.ec.cx:8080/a/hls1/multishow.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2945776775f723beba2dd7.png" tvg-id="0" group-title="CANAIS",BAND NEWS
 http://ts.ec.cx:8080/a/hls1/bandnews.m3u8
