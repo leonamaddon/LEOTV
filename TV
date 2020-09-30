@@ -102,11 +102,8 @@ http://ts.ec.cx:8080/a/hls1/discoverykids.m3u8
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image20352345195f723beba1256.png" tvg-id="0" group-title="CANAIS",DISCOVERY KIDS2
 http://157.245.112.220:25461/newbrasil/newbrasil/8101
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4768043505f723beba12d4.png" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL1
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4768043505f723beba12d4.png" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/disney-channel-logo-2015-600x300.jpg" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneychannel_a9334987_f491ff0e1637982369b83906d909e6b76e92bcd0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17198899955f723beba1331.png" tvg-id="0" group-title="CANAIS",NICKLODEON
 http://ts.ec.cx:8080/a/hls1/nick-v2.m3u8
