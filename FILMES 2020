@@ -109,10 +109,10 @@
 
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>AMULETO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WQIFT0Eoo73rM0xdrNdvt3roL3xfgxWn/view</link>
+<thumbnail>https://archive.org/services/img/amuletouxp-a-5-pxgvsq-gor-nmwi-l-4-rhe-fa-0-t</thumbnail>
+<fanart>https://archive.org/services/img/amuletouxp-a-5-pxgvsq-gor-nmwi-l-4-rhe-fa-0-t</fanart>
 <info></info>
 <genre></genre>
 </item>
