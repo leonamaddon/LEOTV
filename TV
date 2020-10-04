@@ -28,10 +28,13 @@ http://51.161.87.116:25461/RBFOQylJJnW4NG/SCG7yeSjqrKq/130?token=QhANVRFYGgxEXQ1
 http://ts.ec.cx:8085/hls1/premiereclubes.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
-http://http://190.2.147.17:25461/newbrasil/newbrasil/6987?token=HxRQAEJYQQkbBgBRVVlbU1NXU1ZXD1xTAwNUU1RVBw8GBA5XVAIGBAsVGkdHFRBXV18+WwUUXwQJCgcdE0YXUhZpUQUTCkECCAMERxhDFltbV0MIUABVAwcECQQEA0gVFF9cQwsSUgUBDg5HGEMHSkJXE1wAWjpWVURZUlQRXlkRWlRNE18NbF1SWwRaBUAIFAJDHkNfFkISCF5EXV9IFQZfTBNQRAYRAxUHUwNRQB4UUQ5HD0IXSxIIEnNjEUgVAU5MBF9DClxXFQxHQBJAHhRbEm0TUxZGQldRXFRBRg1GBxpNE10CS2ZUWQtaBAFGX10PQUMMRwQAAhIdE14LWQ1CVxNuQApXGw0UVw1XUAAUTw==
+http://195.181.163.183:2200/PY-N/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/380.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
+http://195.181.163.183:2200/PY-N/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3
 http://ts.ec.cx:8085/hls1/premiere3.m3u8
