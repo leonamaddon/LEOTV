@@ -124,7 +124,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 https://streaming.belugacdn.link/hls1/cartoon.m3u8?expires=1602637416&token=c61c102dae1271bd94d238fe8941f16e
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST
-https://streaming.belugacdn.link/hls1/tooncast.m3u8?expires=1602638039&token=191cd9be4389b89881f5f84b12427f6d
+http://51.161.84.74:25461/live/bpiNuC0AmotNdR/JJpRptDQLf6s/304.m3u8?token=QhANVRFYGgxEWAZWAAdSUFNTVVICDQcEBlUFAVUBVgBYA1MBUQELBF8bGRZKRxMEVlg8XgUXCVJVUEgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dTXAQNRx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RDVQKRxUQBlsXXkxEHxsPFnthQ00VUBtDBFtACAoKRgkWCAEQARBJFgtDZ0QDSkFGXFIMBEUXWRVRFx9DCAUcbFcKXAtcURFdDV5LFFwbBRYVEQwOWVwXWBNqQwgBRl4RBlMEVQkQGA==
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
