@@ -37,7 +37,7 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1
 http://ts.ec.cx:1080/hls1/foxsports1.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image909634055f723beba06cc.png" tvg-id="0" group-title="CANAIS",FOX SPORTS2
-http://ts.ec.cx:1080/hls1/foxsports2.m3u8
+http://51.161.87.116:25461/hlsr/QhANVRFYGgxEWwdSXwVVWAADAVVRAgsCVgdUA1UAVgBdB1QAAQdZVFMbGRZKRxMEVlg8XgUXCVBWVEgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dVUwYARx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RBVQLXRseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlQGUAEHR0k=/MGLXGKUrGBxq5h/YfC1e8L7LaBA/130/804c981709ac5fef133e6adfeef3e42d/130_1366.ts
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8
