@@ -87,9 +87,6 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
 http://51.161.87.116:25461/live/rcyUjoOIidmIKL/pQ0L0EzTrHtA/61.m3u8?token=QhANVRFYGgxEWwFSCAcEUlQGVQ4HDVAEVFVUA1FVVlZfAQQHVAQNBwcbGRZKRxMEVlg8XgUXCVdUSEZGRwBAOlBWRw5AARoaRE1cWVwRW1EbFxNeBRcJQ1ddVQYARx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RBVIDXRseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlQGUA8KR0k=
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
-https://proxy.ec.cx:443/proxy.php?url=combate-41388.ts
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/466.m3u8
 
@@ -165,14 +162,21 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715092.m3u8
 #EXTINF:-1 tvg-logo="https://ia801704.us.archive.org/3/items/dragon-ball-super-key-visual/Dragon_Ball_Super_Key_visual.jpg" tvg-id="0" group-title="CANAIS",24h DRAGON BALL SUPER
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755669.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h CHAVES
-http://sv1.cinecriciuma.com.br:8080/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h O HOMEM ARANHA
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715108.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h EU A PATROA E AS CRIANCAS
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715105.m3u8
 
-EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h DRAGON BALL GT 
-http://sv1.cinecriciuma.com.br:8080/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h TODO MUNDO ODEIA O CRIS
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715099.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h DRAGON BALL GT 
+http://sv1.cinecriciuma.com.br:8080/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h YI GI OH 
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755672.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image740667195f723beba1689.png" tvg-id="0" group-title="CANAIS",PARAMOUNT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/376.m3u8
