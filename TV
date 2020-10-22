@@ -151,7 +151,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/280.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG
-https://streaming.belugacdn.link/hls1/boomerang.m3u8?expires=1602638581&token=9293fee32ce370e5b201d694d486bfa7
+http://pe4.distv.net:8080/JU/@JU/3
 
 #EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/10/items/naruto-classico-e-naruto-shippuden-fillers/Naruto-Cl%C3%A1ssico-e-Naruto-Shippuden-fillers.jpg" tvg-id="0" group-title="CANAIS",24h NARUTO CLASSICO
 http://stream-sky.cf/live/edvandro24h/4mRJSpRD1h/715098.m3u8
