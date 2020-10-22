@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA
-http://pe4.distv.net:8080/JU/@JU/1509
+http://pfsv.io:80/live/3797181177/6043/48757.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
@@ -28,10 +28,16 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1b32110260e7033b544a67cc00/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5444379505f723beb9ff29.png" tvg-id="0" group-title="CANAIS",FOX SPORTS
-http://pe4.distv.net:8080/JU/@JU/25
+http://pfsv.io:80/live/3797181177/6043/30283.m3u8
+
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports FHD
+http://pfsv.io:80/live/3797181177/6043/255.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image909634055f723beba06cc.png" tvg-id="0" group-title="CANAIS",FOX SPORTS2
-http://pe4.distv.net:8080/JU/@JU/26
+http://pfsv.io:80/live/3797181177/6043/272.m3u8
+
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title=" Canais | Esportes",Fox Sports 2 FHD[H265]
+http://pfsv.io:80/live/3797181177/6043/30282.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8
@@ -40,7 +46,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/406.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES-1080-H264" tvg-logo="http://tcomweb.site/icons/Premiere-Clubes.png" group-title="SPORTS",PREMIERE CLUBES-1080-H264
-http://pe4.distv.net:8080/JU/@JU/39
+http://pfsv.io:80/live/3797181177/6043/524.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/380.m3u8
@@ -49,7 +55,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/382.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2-1080-H264" tvg-logo="http://tcomweb.site/icons/Premiere-2.png" group-title="SPORTS",PREMIERE 2-1080-H264
-http://pe4.distv.net:8080/JU/@JU/40
+http://pe4.distv.net:8080/live/JU/@JU/40.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/384.m3u8
@@ -109,7 +115,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/468.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV-1080-H264" tvg-logo="http://tcomweb.site/icons/SportTV.png" group-title="SPORTS",SPORTV-1080-H264
-http://pe4.distv.net:8080/JU/@JU/47
+http://pe4.distv.net:8080/live/JU/@JU/47.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/458.m3u8
