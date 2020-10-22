@@ -85,6 +85,9 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
+http://pe4.distv.net:8080/JU/@JU/5
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
 http://esrv.cc:80/user91920/pass29190/078.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV
@@ -121,7 +124,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/600.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON
-https://tv.bahialink.net.br:443/media/n/BZi1mdyXy2GXntG0nJuWmdC2/a/BZi1mdyXy2GXntG0nJuWmdC2/720p/l_3100801_11067466_5065.ts?ch=BZi1mdyXy2GXntG0nJuWmdC2&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDMxNzkyNjQsImlhdCI6MTYwMzE2ODQ2NCwic3ViIjoiZGVmYXVsdCMxNTYwMTYzNDkwIn0.HlPUje9rmjC95TPQmfbvvyOhi_g3LwNQQ2PHk1swCUw
+http://pe4.distv.net:8080/JU/@JU/4
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST
 http://51.161.84.74:25461/live/rcyUjoOIidmIKL/pQ0L0EzTrHtA/304.m3u8?token=QhANVRFYGgxEAAIBWwsFAlQNW1VTUVIDU1ZcBAFUAgdaBVBSUlZcUlIbGRZKRxMEVlg8XgUXCVJVUEgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dWVAUMVRBJG1cdQAdCVlcKZlFRT1oCBBUPDUINWR9DCgo7V1EIUwtdEF8WUhIUFA9KRRYDXRQNWxlBVQhBQQARAUYJFlwLVRseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlcEUwkCR0k=
