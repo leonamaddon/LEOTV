@@ -156,6 +156,9 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG
 http://pe4.distv.net:8080/JU/@JU/3
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS-1080-H264
+http://pe4.distv.net:8080/JU/@JU/10
+
 #EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/10/items/naruto-classico-e-naruto-shippuden-fillers/Naruto-Cl%C3%A1ssico-e-Naruto-Shippuden-fillers.jpg" tvg-id="0" group-title="CANAIS",24h NARUTO CLASSICO
 http://stream-sky.cf/live/edvandro24h/4mRJSpRD1h/715098.m3u8
 
@@ -175,25 +178,17 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715105.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h TODO MUNDO ODEIA O CRIS
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715099.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h CAPITAO TSUBAZA
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755675.m3u8
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h YI GI OH 
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755672.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h OS SIMPSONS
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755678.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h IRMAO DO JOREL
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755688.m3u8
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h X-MEN
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755671.m3u8
 
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h MICKEY MOUSE
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755673.ts
-
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image740667195f723beba1689.png" tvg-id="0" group-title="CANAIS",PARAMOUNT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/376.m3u8
@@ -301,10 +296,10 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/534.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",DISCOREVY H&H
-https://streaming.belugacdn.link/hls1/discoveryhomeihealth.m3u8?expires=1602640148&token=a13331bf38df7e27da4cd324151f1ea8
+http://pe4.distv.net:8080/JU/@JU/8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOREVY
-https://megafilmeshd50.top/canais/token=60072fe7f5e6e59786ea6277c644709b.php?canal=discovery
+http://pe4.distv.net:8080/JU/@JU/7
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/594.m3u8
@@ -344,6 +339,9 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICAS",MTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/344.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL-1080-H264" tvg-logo="http://tcomweb.site/icons/Comedy-Central.png" group-title="FILMES E SERIES",COMEDY CENTRAL-1080-H264
+http://pe4.distv.net:8080/JU/@JU/6
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/208.m3u8
