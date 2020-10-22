@@ -114,8 +114,8 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/468.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV-1080-H264" tvg-logo="http://tcomweb.site/icons/SportTV.png" group-title="SPORTS",SPORTV-1080-H264
-http://pe4.distv.net:8080/live/JU/@JU/47.m3u8
+#EXTINF:-1 tvg-id="tvg-name="SPORTV-1080-H264" tvg-logo="http://tcomweb.site/icons/SportTV.png" group-title="SPORTS",SPORTV-1080-H264
+http://pfsv.io:80/live/3797181177/6043/556.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/458.m3u8
@@ -123,8 +123,8 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/460.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2-1080-H264" tvg-logo="http://tcomweb.site/icons/SportTV-2.png" group-title="SPORTS",SPORTV 2-1080-H264
-http://pe4.distv.net:8080/JU/@JU/48
+#EXTINF:-1 tvg-id="tvg-name="SPORTV 2-1080-H264" tvg-logo="http://tcomweb.site/icons/SportTV-2.png" group-title="SPORTS",SPORTV 2-1080-H264
+http://pfsv.io:80/live/3797181177/6043/557.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/462.m3u8
@@ -132,23 +132,23 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/464.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3-1080-H264" tvg-logo="http://tcomweb.site/icons/SPORTV-3.png" group-title="SPORTS",SPORTV 3-1080-H264
-http://pe4.distv.net:8080/JU/@JU/49
+#EXTINF:-1 tvg-id="tvg-name="SPORTV 3-1080-H264" tvg-logo="http://tcomweb.site/icons/SPORTV-3.png" group-title="SPORTS",SPORTV 3-1080-H264
+http://pfsv.io:80/live/3797181177/6043/558.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image12310254815f723beba0c4f.png" tvg-id="0" group-title="CANAIS",ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN -1080-H264"" group-title="SPORTS",ESPN
-http://pe4.distv.net:8080/JU/@JU/18
+#EXTINF:-1 tvg-id="tvg-name="ESPN -1080-H264" group-title="SPORTS",ESPN
+http://pfsv.io:80/live/3797181177/6043/261.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4091937375f723beba0cbc.png" tvg-id="0" group-title="CANAIS",ESPN2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-2.png" group-title="SPORTS",ESPN 2-1080-H264
-http://pe4.distv.net:8080/JU/@JU/19
+#EXTINF:-1 tvg-id="tvg-name="ESPN 2-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-2.png" group-title="SPORTS",ESPN 2-1080-H264
+http://pfsv.io:80/live/3797181177/6043/258.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="" group-title="SPORTS",DAZN FHD
-http://pe4.distv.net:8080/JU/@JU/389
+#EXTINF:-1 tvg-id="tvg-name="DAZN FHD" tvg-logo="group-title="SPORTS",DAZN FHD
+http://pfsv.io:80/live/3797181177/6043/504.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 1
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/524.m3u8
@@ -160,34 +160,22 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/600.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="" group-title="SPORTS",CONMEBOL 1
-http://pe4.distv.net:8080/JU/@JU/1510
-
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="" group-title="SPORTS",CONMEBOL 2
-http://pe4.distv.net:8080/JU/@JU/1511
+http://pfsv.io:80/live/3797181177/6043/490.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON
-http://pe4.distv.net:8080/JU/@JU/4
+http://pfsv.io/live/3797181177/6043/139.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST
-http://pe4.distv.net:8080/JU/@JU/56
+http://pfsv.io/live/3797181177/6043/160.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR-1080-H264" tvg-logo="http://tcomweb.site/icons/Disney-JR.png" group-title="KIDS",DISNEY JR-1080-H264
-http://pe4.distv.net:8080/JU/@JU/16
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image15369247285f723beba11da.png" tvg-id="0" group-title="CANAIS",DISNEY XD HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD-1080-H264" tvg-logo="http://tcomweb.site/icons/Disney-XD.png" group-title="KIDS",DISNEY XD-1080-H264
-http://pe4.distv.net:8080/JU/@JU/17
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4768043505f723beba12d4.png" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL-1080-H264" tvg-logo="http://tcomweb.site/icons/Disney-Channel.png" group-title="KIDS",DISNEY CHANNEL-1080-H264
-http://pe4.distv.net:8080/JU/@JU/15
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2311270665f723beba2701.png" tvg-id="0" group-title="CANAIS",NAT GEO KIDS
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/352.m3u8
@@ -204,14 +192,14 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/280.m3u8
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB FHD
+http://pfsv.io/live/3797181177/6043/142.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG
-http://pe4.distv.net:8080/JU/@JU/3
+http://pfsv.io/live/3797181177/6043/138.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS-1080-H264
-http://pe4.distv.net:8080/JU/@JU/10
-
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV-1080-H264" tvg-logo="http://tcomweb.site/icons/Baby-Tv.png" group-title="KIDS",BABY TV-1080-H264
-http://pe4.distv.net:8080/JU/@JU/2
+http://pfsv.io/live/3797181177/6043/140.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/10/items/naruto-classico-e-naruto-shippuden-fillers/Naruto-Cl%C3%A1ssico-e-Naruto-Shippuden-fillers.jpg" tvg-id="0" group-title="CANAIS",24h NARUTO CLASSICO
 http://stream-sky.cf/live/edvandro24h/4mRJSpRD1h/715098.m3u8
@@ -257,7 +245,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM-1080-H264" tvg-logo="http://tcomweb.site/icons/Telecine-Premium.png" group-title="FILMES E SERIES",TELECINE PREMIUM-1080-H264
-http://pe4.distv.net:8080/JU/@JU/53
+http://pfsv.io/live/3797181177/6043/573.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/482.m3u8
@@ -266,7 +254,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/484.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION-1080-H264" tvg-logo="http://tcomweb.site/icons/Telecine-Action.png" group-title="FILMES E SERIES",TELECINE ACTION-1080-H264
-http://pe4.distv.net:8080/JU/@JU/50
+http://pfsv.io/live/3797181177/6043/568.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PIPOCA
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/494.m3u8
@@ -275,7 +263,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/496.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA-1080-H264" tvg-logo="http://tcomweb.site/icons/Telecine-Pipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA-1080-H264
-http://pe4.distv.net:8080/JU/@JU/52
+http://pfsv.io/live/3797181177/6043/572.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/486.m3u8
@@ -302,7 +290,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/310.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO PLUS-1080-H264" tvg-logo="http://tcomweb.site/icons/HBO-Plus.png" group-title="FILMES E SERIES",HBO PLUS
-http://pe4.distv.net:8080/JU/@JU/31
+http://pfsv.io/live/3797181177/6043/575.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 1
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/300.m3u8a
