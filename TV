@@ -299,22 +299,19 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/302.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO-1080-H264" tvg-logo="http://tcomweb.site/icons/HBO.png" group-title="FILMES E SERIES",HBO
-http://pe4.distv.net:8080/JU/@JU/29
+http://pfsv.io/live/3797181177/6043/474.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/310.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2-1080-H264" tvg-logo="http://tcomweb.site/icons/HBO-2.png" group-title="FILMES E SERIES",HBO 2
-http://pe4.distv.net:8080/JU/@JU/30
+http://pfsv.io/live/3797181177/6043/472.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO MUNDI
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/304.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO SIGNATURE HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/316.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE-1080-H264" tvg-logo="http://tcomweb.site/icons/HBO-Signature.png" group-title="FILMES E SERIES",HBO SIGNATURE
-http://pe4.distv.net:8080/JU/@JU/32
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO EXTREME
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/322.m3u8
@@ -331,9 +328,6 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image9660833135f723beba1fc1.png" tvg-id="0" group-title="CANAIS",MEGAPIX HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/338.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX-1080-H264" tvg-logo="http://tcomweb.site/icons/Megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://pe4.distv.net:8080/JU/@JU/35
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18805195855f723beba2029.png" tvg-id="0" group-title="CANAIS",SPACE
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/454.m3u8
 
@@ -341,17 +335,16 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/456.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1-1080-H264" tvg-logo="http://tcomweb.site/icons/Fox-Premium-1.png" group-title="FILMES E SERIES",FOX PREMIUM 1-1080-H264
-http://pe4.distv.net:8080/JU/@JU/23
+http://pfsv.io/live/3797181177/6043/306.m3u8
 
+#EXTINF:-1 tvg-logo="http://z4.vc/O5F" group-title=" Canais | Esportes",Fox Premium 2 HD
+http://pfsv.io:80/live/3797181177/6043/307.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX HD
-http://pe4.distv.net:8080/JU/@JU/22
+http://pfsv.io/live/3797181177/6043/304.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/508.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT-1080-H264" tvg-logo="http://tcomweb.site/icons/TNT.png" group-title="FILMES E SERIES",TNT-1080-H264
-http://pe4.distv.net:8080/JU/@JU/55
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/510.m3u8
@@ -366,13 +359,13 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/534.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",DISCOREVY H&H
-http://pe4.distv.net:8080/JU/@JU/8
+http://pfsv.io/live/3797181177/6043/183.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOREVY
-http://pe4.distv.net:8080/JU/@JU/7
+http://pfsv.io/live/3797181177/6043/181.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
-http://pe4.distv.net:8080/JU/@JU/1
+http://pfsv.io/live/3797181177/6043/179.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/594.m3u8
@@ -401,9 +394,6 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/542.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VIVA-1080-H264" tvg-logo="http://tcomweb.site/icons/Viva.png" group-title="ENTRETENIMENTO",VIVA-1080-H264
-http://pe4.distv.net:8080/JU/@JU/59
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/348.m3u8
 
@@ -416,23 +406,14 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="" group-title="MUSICAS",MTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/344.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL-1080-H264" tvg-logo="http://tcomweb.site/icons/Comedy-Central.png" group-title="FILMES E SERIES",COMEDY CENTRAL-1080-H264
-http://pe4.distv.net:8080/JU/@JU/6
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/208.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="http://distv.net/icons/cnnBrasil.png" group-title="REPORTAGEM",CNN BRASIL FHD
-http://pe4.distv.net:8080/JU/@JU/821
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18918915725f723beba2e90.png" tvg-id="0" group-title="CANAIS",GNT 1
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/286.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18918915725f723beba2e90.png" tvg-id="0" group-title="CANAIS",GNT HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/286.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT
-http://pe4.distv.net:8080/JU/@JU/28
+http://pfsv.io:80/live/3797181177/6043/111.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21225053255f723beba2ee5.png" group-title="MUSICAS",BIS
 http://ts.ec.cx:1080/hls1/bis.m3u8
@@ -463,12 +444,6 @@ http://51.161.84.74:25461/live/bw1lD3eCw3r44D/21tQQURcthyF/459.m3u8?token=QhANVR
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/556.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEX HOT -1080-H264" tvg-logo="http://tcomweb.site/icons/Sexy-Hot.png" group-title="ADULTOS",SEX HOT 
-http://pe4.distv.net:8080/JU/@JU/44
-
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE-1080-H264" tvg-logo="http://tcomweb.site/icons/SexPrive.png" group-title="ADULTOS",SEX PRIVE
-http://pe4.distv.net:8080/JU/@JU/45
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/550.m3u8
