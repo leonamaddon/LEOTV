@@ -219,8 +219,32 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755671.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h MICKEY MOUSE
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755673.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga dOs Sayajins
+http://esrv.cc:80/live/user91920/pass29190/30968.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Freeza
+http://esrv.cc:80/live/user91920/pass29190/30964.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Garlic Jr
+http://esrv.cc:80/live/user91920/pass29190/30965.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga dOs Androids
+http://esrv.cc:80/live/user91920/pass29190/30967.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Cell
+http://esrv.cc:80/live/user91920/pass29190/30963.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga Torneio de Outro Mundo
+http://esrv.cc:80/live/user91920/pass29190/30969.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Majin Boo
+http://esrv.cc:80/live/user91920/pass29190/30966.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia801704.us.archive.org/3/items/dragon-ball-super-key-visual/Dragon_Ball_Super_Key_visual.jpg" tvg-id="0" group-title="CANAIS",24h DRAGON BALL SUPER 1
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755669.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b60922d1716d338c1b061f301cbe6738.png" group-title="Canais @ 24 Horas",24H Dragon Ball Super 2
+http://esrv.cc:80/live/user91920/pass29190/30962.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/125de3b349469521e152c61a191d43bf.png" group-title="Canais @ 24 Horas",24H Dragon Ball GT
 http://esrv.cc:80/live/user91920/pass29190/30957.m3u8
