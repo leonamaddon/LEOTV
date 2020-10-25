@@ -295,9 +295,6 @@ http://esrv.cc:80/live/user91920/pass29190/31002.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h YI GI OH 
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755672.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/98ce4d9b6c4ec83e0a01d5863d112111.jpg" group-title="Canais @ 24 Horas",(24H) Yu Yu Hakusho
-http://esrv.cc:80/live/user91920/pass29190/31415.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ab75df17d69cf065a3da79ac40116c6.png" group-title="Canais @ 24 Horas",24H Familia DinOssauro
 http://esrv.cc:80/live/user91920/pass29190/30997.m3u8
 
@@ -308,6 +305,8 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715105.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h TODO MUNDO ODEIA O CRIS
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715099.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/14030bf82af095cc9d7255a3f81a3e90.png" group-title="Canais @ 24 Horas",24H Todo Mundo Odeia O Chris2
+http://esrv.cc:80/live/user91920/pass29190/31388.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e64ced27a054bcfecb6d78de471d25b4.jpg" group-title="Canais @ 24 Horas",24H Tunel do Tempo
 http://esrv.cc:80/live/user91920/pass29190/31400.m3u8
