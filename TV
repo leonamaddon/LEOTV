@@ -210,19 +210,19 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755671.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h O HOMEM ARANHA
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715108.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b69db42e913d1338dd1adf62f11090f.png" group-title="Canais @ 24 Horas",24H CDZ - Competlo
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Competlo
 http://esrv.cc:80/live/user91920/pass29190/31160.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b69db42e913d1338dd1adf62f11090f.png" group-title="Canais @ 24 Horas",24H CDZ - Saga do Santuario
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga do Santuario
 http://esrv.cc:80/live/user91920/pass29190/31164.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b69db42e913d1338dd1adf62f11090f.png" group-title="Canais @ 24 Horas",24H CDZ - Saga de Asgard
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga de Asgard
 http://esrv.cc:80/live/user91920/pass29190/31161.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b69db42e913d1338dd1adf62f11090f.png" group-title="Canais @ 24 Horas",24H CDZ - Saga de Poseidon
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga de Poseidon
 http://esrv.cc:80/live/user91920/pass29190/31163.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b69db42e913d1338dd1adf62f11090f.png" group-title="Canais @ 24 Horas",24H CDZ - Saga de Hades
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga de Hades
 http://esrv.cc:80/live/user91920/pass29190/31162.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" tvg-id="0" group-title="CANAIS",24h OS CAVALEIROS DO ZODIACO
@@ -296,7 +296,7 @@ http://esrv.cc:80/live/user91920/pass29190/31002.m3u8
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755672.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/98ce4d9b6c4ec83e0a01d5863d112111.jpg" group-title="Canais @ 24 Horas",(24H) Yu Yu Hakusho
-http://esrv.cc:80/user91920/pass29190/31415
+http://esrv.cc:80/live/user91920/pass29190/31415.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ab75df17d69cf065a3da79ac40116c6.png" group-title="Canais @ 24 Horas",24H Familia DinOssauro
 http://esrv.cc:80/live/user91920/pass29190/30997.m3u8
