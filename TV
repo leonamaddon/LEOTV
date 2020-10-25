@@ -249,8 +249,38 @@ http://esrv.cc:80/live/user91920/pass29190/30962.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/125de3b349469521e152c61a191d43bf.png" group-title="Canais @ 24 Horas",24H Dragon Ball GT
 http://esrv.cc:80/live/user91920/pass29190/30957.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4c04cbbf462bd1465b6fad56ce303d7e.jpg" group-title="Canais @ 24 Horas",24h As Visoes Da Raven
-http://esrv.cc:80/live/user91920/pass29190/30816.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto Classico - S01
+http://esrv.cc:80/live/user91920/pass29190/31125.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto Classico - S02
+http://esrv.cc:80/live/user91920/pass29190/31126.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto Classico - S03
+http://esrv.cc:80/live/user91920/pass29190/31127.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto Classico 04
+http://esrv.cc:80/live/user91920/pass29190/31128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto 05
+http://esrv.cc:80/live/user91920/pass29190/31129.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto 06
+http://esrv.cc:80/live/user91920/pass29190/31130.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto 07
+http://esrv.cc:80/live/user91920/pass29190/31131.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 08
+http://esrv.cc:80/live/user91920/pass29190/31132.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",(24H) Naruto Classico - S09
+http://esrv.cc:80/live/user91920/pass29190/31133.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3bbcd2bae4ab6fec37dbf5e791063162.png" group-title="Canais @ 24 Horas",24H Fly O Pequeno Guerreiro
+http://esrv.cc:80/live/user91920/pass29190/31002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ab75df17d69cf065a3da79ac40116c6.png" group-title="Canais @ 24 Horas",24H Familia DinOssauro
+http://esrv.cc:80/live/user91920/pass29190/30997.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h EU A PATROA E AS CRIANCAS
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715105.m3u8
