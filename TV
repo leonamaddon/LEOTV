@@ -232,6 +232,9 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755671.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h MICKEY MOUSE
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755673.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e64ced27a054bcfecb6d78de471d25b4.jpg" group-title="Canais @ 24 Horas",(24H) Tunel do Tempo
+http://esrv.cc:80/live/user91920/pass29190/31400.m3u8
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image740667195f723beba1689.png" tvg-id="0" group-title="CANAIS",PARAMOUNT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/376.m3u8
 
