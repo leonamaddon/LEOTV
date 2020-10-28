@@ -18,6 +18,12 @@ http://pfsv.io:80/live/3797181177/6043/392.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/444.m3u8
 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 2 
+http://esrv.cc:80/live/user91920/pass29190/383.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ
+http://pfsv.io:80/live/3797181177/6043/50874.m3u8
+
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
@@ -174,10 +180,16 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="" group-title="SPORTS",CONMEBOL 1
 http://pfsv.io:80/live/3797181177/6043/490.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON FHD
+http://esrv.cc:80/live/user91920/pass29190/61.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON FHD
 http://pfsv.io/live/3797181177/6043/139.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
+http://esrv.cc:80/live/user91920/pass29190/441.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST FHD
 http://pfsv.io/live/3797181177/6043/160.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
@@ -190,19 +202,19 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2311270665f723beba2701.png" tvg-id="0" group-title="CANAIS",NAT GEO KIDS
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/352.m3u8
+http://esrv.cc:80/live/user91920/pass29190/318.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17198899955f723beba1331.png" tvg-id="0" group-title="CANAIS",NICKLODEON
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/366.m3u8
+http://esrv.cc:80/live/user91920/pass29190/329.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17198899955f723beba1331.png" tvg-id="0" group-title="CANAIS",NICKLODEON FHD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/364.m3u8
+http://pfsv.io:80/live/3797181177/6043/145.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17198899955f723beba1331.png" tvg-id="0" group-title="CANAIS",NICK JR
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/362.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/280.m3u8
+http://esrv.cc:80/live/user91920/pass29190/253.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB FHD
 http://pfsv.io/live/3797181177/6043/142.m3u8
@@ -210,8 +222,14 @@ http://pfsv.io/live/3797181177/6043/142.m3u8
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG
 http://pfsv.io/live/3797181177/6043/138.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS-1080-H264
-http://pfsv.io/live/3797181177/6043/140.m3u8
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG FHD
+http://esrv.cc:80/live/user91920/pass29190/52.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS HD
+http://esrv.cc:80/live/user91920/pass29190/105.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS FHD
+http://pfsv.io:80/live/3797181177/6043/140.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h MICKEY MOUSE
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755673.ts
