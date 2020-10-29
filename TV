@@ -34,7 +34,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1b32110260e7033b544a67cc00/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5444379505f723beb9ff29.png" tvg-id="0" group-title="CANAIS",FOX SPORTS
-http://pfsv.io:80/live/3797181177/6043/30283.m3u8
+http://51.161.119.126:8080/tvplay/esporte_foxsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
 http://esrv.cc:80/live/user91920/pass29190/180.m3u8
@@ -46,7 +46,7 @@ http://pfsv.io:80/live/3797181177/6043/255.m3u8
 http://esrv.cc:80/live/user91920/pass29190/177.m3u8
 
 #EXTINF:-1 tvg-logo="LINK_LOGO" group-title=" Canais | Esportes",Fox Sports 2 FHD[H265]
-http://pfsv.io:80/live/3797181177/6043/272.m3u8
+http://51.161.119.126:8080/tvplay/esporte_foxsports2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8
@@ -115,10 +115,10 @@ http://51.161.119.126:8080/tvplay/esporte_premiere7/chunks.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-Brasil.png" group-title="SPORTS",ESPN BRASIL
-http://pfsv.io:80/live/3797181177/6043/259.m3u8
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
-http://pfsv.io:80/live/3797181177/6043/257.m3u8
+http://51.161.119.126:8080/tvplay/esporte_combate/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
 http://esrv.cc:80/live/user91920/pass29190/078.m3u8
@@ -127,10 +127,10 @@ http://esrv.cc:80/live/user91920/pass29190/078.m3u8
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/466.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/468.m3u8
+http://esrv.cc:80/live/user91920/pass29190/399.m3u8
 
 #EXTINF:-1 tvg-id="tvg-name="SPORTV-1080-H264" tvg-logo="http://tcomweb.site/icons/SportTV.png" group-title="SPORTS",SPORTV-1080-H264
-http://pfsv.io:80/live/3797181177/6043/556.m3u8
+http://51.161.119.126:8080/tvplay/esporte_sportv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/458.m3u8
