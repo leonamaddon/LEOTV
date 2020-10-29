@@ -58,7 +58,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://esrv.cc:80/live/user91920/pass29190/359.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES-1080-H264" tvg-logo="http://tcomweb.site/icons/Premiere-Clubes.png" group-title="SPORTS",PREMIERE CLUBES-1080-H264
-http://pfsv.io:80/live/3797181177/6043/537.m3u8
+http://51.161.119.126:8080/tvplay/esporte_premiereclubes/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/380.m3u8
@@ -535,16 +535,16 @@ http://pfsv.io:80/live/3797181177/6043/190.m3u8
 http://esrv.cc:80/live/user91920/pass29190/316.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2311270665f723beba2701.png" tvg-id="0" group-title="CANAIS",NAT GEO FHD
-http://pfsv.io:80/live/3797181177/6043/191.m3u8
+http://esrv.cc:80/live/user91920/pass29190/315.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18702958085f723beba3011.png" tvg-id="0" group-title="CANAIS",NAT GEO WILD HD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/356.m3u8
+http://esrv.cc:80/live/user91920/pass29190/322.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18702958085f723beba3011.png" tvg-id="0" group-title="CANAIS",NAT GEO WILD FHD
-http://pfsv.io:80/live/3797181177/6043/192.m3u8
+http://esrv.cc:80/live/user91920/pass29190/321.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11507465725f723beba2883.png" tvg-id="0" group-title="CANAIS",H1
-http://pfsv.io:80/live/3797181177/6043/189.m3u8
+http://esrv.cc:80/live/user91920/pass29190/289.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11507465725f723beba2883.png" tvg-id="0" group-title="CANAIS",H2
 http://esrv.cc:80/live/user91920/pass29190/262.m3u8
@@ -574,7 +574,7 @@ http://esrv.cc:80/live/user91920/pass29190/307.m3u8
 http://esrv.cc:80/live/user91920/pass29190/203.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS FHD
-http://pfsv.io:80/live/3797181177/6043/516.m3u8
+http://esrv.cc:80/live/user91920/pass29190/202.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18918915725f723beba2e90.png" tvg-id="0" group-title="CANAIS",GNT 
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/286.m3u8
@@ -583,20 +583,17 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://esrv.cc:80/live/user91920/pass29190/259.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18918915725f723beba2e90.png" tvg-id="0" group-title="CANAIS",GNT HD FHD
-http://pfsv.io:80/live/3797181177/6043/111.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21225053255f723beba2ee5.png" group-title="MUSICAS",BIS
-http://ts.ec.cx:1080/hls1/bis.m3u8
+http://esrv.cc:80/live/user91920/pass29190/260.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8994926425f723beba2f34.png" tvg-id="0" group-title="CANAIS",TLC HD
 http://esrv.cc:80/live/user91920/pass29190/432.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8994926425f723beba2f34.png" tvg-id="0" group-title="CANAIS",TLC FHD
-http://pfsv.io:80/live/3797181177/6043/314.m3u8
+http://esrv.cc:80/live/user91920/pass29190/431.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14677881085f723beba2f88.png" tvg-id="0" group-title="CANAIS",OFF
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/370.m3u8
+http://esrv.cc:80/live/user91920/pass29190/31919.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/5/items/cine-sky-resize-1/cine%20skyResize-1.png" tvg-id="0" group-title="CANAIS",CINE SKY 1
 http://pfsv.io:80/live/3797181177/6043/50838.m3u8
@@ -617,17 +614,17 @@ http://pfsv.io:80/live/3797181177/6043/50842.m3u8
 http://pfsv.io:80/live/3797181177/6043/50843.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
-http://pfsv.io:80/live/3797181177/6043/44159.m3u8
+http://esrv.cc:80/live/user91920/pass29190/471.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
-http://pfsv.io:80/live/3797181177/6043/44154.m3u8
+http://esrv.cc:80/live/user91920/pass29190/465.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image774052605f723beba3443.png" tvg-id="0" group-title="CANAIS",SEX PRIVATE
-http://pfsv.io:80/live/3797181177/6043/44169.m3u8
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image774052605f723beba3443.png" tvg-id="0" group-title="CANAIS",xxx
+http://esrv.cc:80/live/user91920/pass29190/31455.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8412916605f723beba3497.png" tvg-id="0" group-title="CANAIS",SEXTREME
-http://pfsv.io:80/live/3797181177/6043/44155.m3u8
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8412916605f723beba3497.png" tvg-id="0" group-title="CANAIS",xxx HD
+http://esrv.cc:80/live/user91920/pass29190/31446.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8412916605f723beba3497.png" tvg-id="0" group-title="CANAIS",VENUS
-http://pfsv.io:80/live/3797181177/6043/44160.m3u8
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8412916605f723beba3497.png" tvg-id="0" group-title="CANAIS",XXX FHD
+http://esrv.cc:80/user91920/live/pass29190/31440.m3u8
  
