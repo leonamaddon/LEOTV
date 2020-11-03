@@ -359,6 +359,9 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755669.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b60922d1716d338c1b061f301cbe6738.png" group-title="Canais @ 24 Horas",24H Dragon Ball Super 2
 http://esrv.cc:80/live/user91920/pass29190/30962.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="Dragon Ball Z",Dragon Ball Super: Broly - 2018
+http://multicdn.xyz:8080/movie/264543/264543/10012.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/125de3b349469521e152c61a191d43bf.png" group-title="Canais @ 24 Horas",24H Dragon Ball GT
 http://esrv.cc:80/live/user91920/pass29190/30957.m3u8
 
@@ -410,3 +413,6 @@ http://esrv.cc:80/live/user91920/pass29190/31388.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e64ced27a054bcfecb6d78de471d25b4.jpg" group-title="Canais @ 24 Horas",24H Tunel do Tempo
 http://esrv.cc:80/live/user91920/pass29190/31400.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="black Kamen Rider" tvg-logo="https://1.bp.blogspot.com/-3cNQDDb3Nlk/XouWN2EYPxI/AAAAAAAACoU/klgdpihXbh4RBdLDdVa-jFQSLdZFUGFZACK4BGAYYCw/s320/5hi9828z.png" group-title="CANAIS 24 HORAS ",black Kamen Rider
+http://multicdn.xyz:8080/live/264543/264543/17743.m3u8
