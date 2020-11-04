@@ -34,7 +34,7 @@ http://189.91.128.146:5555/udp/227.10.20.116:1234.m3u8
 http://189.91.128.146:5555/udp/227.10.20.132:1234.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
-http://189.91.128.146/227.10.20.102.m3u8
+http://189.91.128.146/live/227.10.20.102.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
 http://189.91.128.146:5555/udp/227.10.20.104:1234.m3u8
