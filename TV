@@ -304,11 +304,11 @@ http://multicdn.xyz:8080/264543/264543/29633
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h MICKEY MOUSE
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça" tvg-logo="https://i.pinimg.com/originals/0f/54/78/0f5478645982b355d7ad56729a6bd8ab.png" group-title="CANAIS 24 HORAS ",Liga da Justiça
+http://multicdn.xyz:8080/live/264543/264543/10809.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h X-MEN
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755671.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h X-MEN EVOLUTION
+http://multicdn.xyz:8080/live/264543/264543/30147.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h O HOMEM ARANHA
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715108.m3u8
