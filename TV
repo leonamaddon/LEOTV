@@ -7,7 +7,7 @@ http://multicdn.xyz:8080/live/264543/264543/46781.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ 2
-http://multicdn.xyz:8080/live/264543/264543/23344.m3u8
+http://189.91.128.146:5555/udp/227.10.20.109:1234
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
 http://189.91.128.146:5555/udp/227.10.20.120:1234
