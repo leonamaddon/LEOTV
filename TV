@@ -256,5 +256,26 @@ http://appcliente.com:8880/live/bibi/1234/9567.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nZLMQX.png" group-title="ESPECIAIS SERIADOS 24h",The Big Ban Theory
 http://appcliente.com:8880/live/bibi/1234/21186.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/OI5GEH.png" group-title="ESPECIAIS SERIADOS 24h",Dois Homens e Meio
-http://appcliente.com:8880/live/bibi/1234/17943.m3u8
+#EXTINF:-1 tvg-logo="http://appcliente.com:8880/images/b644129ccf23a9eafb582a0df1701039.png" group-title="ESPECIAIS DESENHOS  24h",Digimon
+http://appcliente.com:8880/live/bibi/1234/13529.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png" group-title="ESPECIAIS DESENHOS  24h",Dragon Ball Z
+http://appcliente.com:8880/live/bibi/1234/7859.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/1162/jnF1ZM.png" group-title="ESPECIAIS DESENHOS  24h",Cavaleiros do Zodíaco 
+http://appcliente.com:8880/live/bibi/1234/7855.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/yOzlKs.png" group-title="ESPECIAIS DESENHOS  24h",Naruto
+http://appcliente.com:8880/live/bibi/1234/7868.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/gc7cT9.png" group-title="ESPECIAIS DESENHOS  24h",Pokemon
+http://appcliente.com:8880/live/bibi/1234/21833.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ZRg2Sd.png" group-title="ESPECIAIS DESENHOS  24h",Sakura Card Captors
+http://appcliente.com:8880/live/bibi/1234/23055.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/UoZBcq.png" group-title="ESPECIAIS DESENHOS  24h",Street Fighter 
+http://appcliente.com:8880/live/bibi/1234/21843.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/eBh3lt.png" group-title="ESPECIAIS DESENHOS  24h",Yu Gi Oh
+http://appcliente.com:8880/live/bibi/1234/7891.m3u8
