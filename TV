@@ -226,3 +226,30 @@ http://esrv.cc:80/live/user91920/pass29190/471.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
 http://esrv.cc:80/live/user91920/pass29190/465.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/tbJ0NA.png" group-title="ESPECIAIS DESENHOS  24h",A Turma da Mônica
+http://appcliente.com:8880/live/bibi/1234/21846.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ikWxSX.png" group-title="ESPECIAIS DESENHOS  24h",Batman Animated Serie
+http://appcliente.com:8880/live/bibi/1234/21801.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/iotwTZ.png" group-title="ESPECIAIS DESENHOS  24h",Du Dudu e Edu
+http://appcliente.com:8880/live/bibi/1234/17290.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/T9y6lM.png" group-title="ESPECIAIS DESENHOS  24h",Futurama
+http://appcliente.com:8880/live/bibi/1234/21810.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/VBMZ98.png" group-title="ESPECIAIS DESENHOS  24h",Os Jovens Titans
+http://appcliente.com:8880/live/bibi/1234/17364.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/uZvxoy.png" group-title="ESPECIAIS DESENHOS  24h",Super Shock
+http://appcliente.com:8880/live/bibi/1234/17375.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BUn2Dx.png" group-title="ESPECIAIS DESENHOS  24h",Tres Espias Demais
+http://appcliente.com:8880/live/bibi/1234/17378.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/b0/06/cfb006d76a5ff03cb23c08d8831a4ce3.png" group-title="ESPECIAIS DESENHOS  24h",X-Men  
+http://appcliente.com:8880/live/bibi/1234/9567.m3u8
+
