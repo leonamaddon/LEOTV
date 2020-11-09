@@ -237,6 +237,8 @@ http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/43880.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BUn2Dx.png" group-title="ESPECIAIS DESENHOS  24h",Tres Espias Demais
 http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/43923.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",24H The Big Bang Theory 1 TEMP
+http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/44082.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",24H The Big Bang Theory 2 TEMP
 http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/44083.m3u8
