@@ -237,6 +237,9 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/discovery.m3u8
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOREVY
+http://cdnbr.xyz:8080/200036256/167115791/220974
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
