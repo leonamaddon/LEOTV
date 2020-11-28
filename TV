@@ -72,6 +72,8 @@ http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/combate.m3u8
 
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
+http://cdnbr.xyz:8080/200036256/167115791/220972
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv1.m3u8
@@ -95,11 +97,14 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 1
 http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/49102.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BAND SPORTS
+http://cdnbr.xyz:8080/200036256/167115791/220967
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON network
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/cartoon.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON 
+http://cdnbr.xyz:8080/200036256/167115791/220970
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/tooncast.m3u8
@@ -128,6 +133,17 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",A&E
 http://cdnbr.xyz:8080/200036256/167115791/220963
 
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",AXN
+http://cdnbr.xyz:8080/200036256/167115791/220966
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",SONY CHANNEL
+http://cdnbr.xyz:8080/200036256/167115791/220969
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",CINEMAX
+http://cdnbr.xyz:8080/200036256/167115791/220971
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinepremium.m3u8
@@ -226,6 +242,9 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/animalplanet.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
+http://cdnbr.xyz:8080/200036256/167115791/220965
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hgtv.m3u8
 
@@ -237,6 +256,12 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICAS",BIS
+http://cdnbr.xyz:8080/200036256/167115791/220968
+
+#EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
+http://cdnbr.xyz:8080/200036256/167115791/220973
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/globonews.m3u8
