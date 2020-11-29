@@ -31,9 +31,16 @@ http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/54.m3u8
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxsports1.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports
+http://cdnbr.xyz:8080/200036256/167115791/220995
+
+
 #EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxsports2.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 
+http://cdnbr.xyz:8080/200036256/167115791/220994
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiereclubes.m3u8
@@ -65,6 +72,9 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRa hd
+http://cdnbr.xyz:8080/200036256/167115791/220988
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-Brasil.png" group-title="SPORTS",ESPN BRASIL
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
@@ -140,6 +150,9 @@ http://cdnbr.xyz:8080/200036256/167115791/220982
 #EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/gloob.m3u8
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB hd
+http://cdnbr.xyz:8080/200036256/167115791/220999
+
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG FHD
 http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/138.m3u8
 
@@ -168,6 +181,11 @@ http://cdnbr.xyz:8080/200036256/167115791/220971
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",E
 http://cdnbr.xyz:8080/200036256/167115791/220984
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",FX
+http://cdnbr.xyz:8080/200036256/167115791/220996
+
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinepremium.m3u8
@@ -205,15 +223,26 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbo.m3u8
 
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO
+http://cdnbr.xyz:8080/200036256/167115791/221003
+
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbo2.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 
+http://cdnbr.xyz:8080/200036256/167115791/221001
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO MUNDI HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbomundi.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO SIGNATURE HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbosignature.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO SIGNATURE
+http://cdnbr.xyz:8080/200036256/167115791/221005
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO EXTREME HD
@@ -236,13 +265,23 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1-1080-H264" tvg-logo="http://tcomweb.site/icons/Fox-Premium-1.png" group-title="FILMES E SERIES",FOX PREMIUM 1-HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxpremium1.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1-1080-H264" tvg-logo="http://tcomweb.site/icons/Fox-Premium-1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
+http://cdnbr.xyz:8080/200036256/167115791/220992
+
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/foxpremium2.m3u8
+
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
+http://cdnbr.xyz:8080/200036256/167115791/220993
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/fox.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX 
+http://cdnbr.xyz:8080/200036256/167115791/220990
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
@@ -283,6 +322,17 @@ http://cdnbr.xyz:8080/200036256/167115791/220980
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOVERY WORLD
 http://cdnbr.xyz:8080/200036256/167115791/220981
 
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",FOOD NETWORK
+http://cdnbr.xyz:8080/200036256/167115791/220989
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",HISTORY 
+http://cdnbr.xyz:8080/200036256/167115791/221007
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",HISTORY 2
+http://cdnbr.xyz:8080/200036256/167115791/221006
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/animalplanet.m3u8
 
@@ -315,8 +365,15 @@ http://cdnbr.xyz:8080/200036256/167115791/220973
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/globonews.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS 
+http://cdnbr.xyz:8080/200036256/167115791/220997
+
 #EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/gnt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT 
+http://cdnbr.xyz:8080/live/200036256/167115791/221000.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="" group-title="ENTRETENIMENTO",BAND NEWS
