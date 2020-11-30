@@ -32,7 +32,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports
-http://cdnbr.xyz:8080/200036256/167115791/220995
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201421
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 HD
@@ -40,7 +40,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 
-http://cdnbr.xyz:8080/200036256/167115791/220994
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201426
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiereclubes.m3u8
@@ -86,26 +86,35 @@ http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201943
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/combate.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
-http://cdnbr.xyz:8080/200036256/167115791/220972
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201400
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv1.m3u8
 
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201416
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv2.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201409
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/sportv3.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201405
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image12310254815f723beba0c4f.png" tvg-id="0" group-title="CANAIS",ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image12310254815f723beba0c4f.png" tvg-id="0" group-title="CANAIS",ESPN 
-http://cdnbr.xyz:8080/200036256/167115791/220987
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201938
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4091937375f723beba0cbc.png" tvg-id="0" group-title="CANAIS",ESPN2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
@@ -116,7 +125,7 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201949
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 1
-http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/49102.m3u8
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201454
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BAND SPORTS
 http://cdnbr.xyz:8080/200036256/167115791/220967
@@ -191,11 +200,16 @@ http://cdnbr.xyz:8080/200036256/167115791/220996
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinepremium.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201370
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecineaction.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201390
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PIPOCA HD
@@ -206,15 +220,25 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinecult.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201384
+
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinefun.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201379
+
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/telecinetouch.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201374
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO PLUS HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hboplus.m3u8
@@ -377,7 +401,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS 
-http://cdnbr.xyz:8080/200036256/167115791/220997
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201366
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/gnt.m3u8
