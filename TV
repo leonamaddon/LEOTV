@@ -80,7 +80,7 @@ http://cdnbr.xyz:8080/200036256/167115791/220988
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-Brasil.png" group-title="SPORTS",ESPN BRASIL hd
-http://cdnbr.xyz:8080/200036256/167115791/220986
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201943
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/combate.m3u8
@@ -113,7 +113,7 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4091937375f723beba0cbc.png" tvg-id="0" group-title="CANAIS",ESPN2 
-http://cdnbr.xyz:8080/200036256/167115791/220985
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201949
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 1
 http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/49102.m3u8
@@ -226,7 +226,7 @@ http://cdnbr.xyz:8080/200036256/167115791/221010
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO
-http://cdnbr.xyz:8080/200036256/167115791/221003
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201954
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 HD
@@ -234,7 +234,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 
-http://cdnbr.xyz:8080/200036256/167115791/221001
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201959
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO MUNDI HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/hbomundi.m3u8
