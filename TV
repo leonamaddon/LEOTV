@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/afazenda.m3u8
 
+
+EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA hd
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201345
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
@@ -13,7 +17,7 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 http://189.91.128.146:5555/udp/227.10.20.120:1234
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 2 
-http://cdnbr.xyz:8080/200036256/167115791/222785
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/760
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
@@ -46,21 +50,45 @@ http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201426
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiereclubes.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/856
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere2.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/850
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere3.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/851
+
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere4.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19294
+
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere5.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5 
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/853
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE6 HD
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/hls1/premiere6.m3u8
