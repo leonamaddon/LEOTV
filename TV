@@ -72,7 +72,8 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet
+http://149.56.16.58:25461/live/cineiptv1346/1346/1864.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
 http://sv.abragames.cf/live/animalplanet/chunks.m3u8
